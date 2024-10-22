@@ -1,0 +1,2980 @@
+Código IR recibido: 72E19485
+Código IR recibido: FB55006D
+Código IR recibido: 4D800F33
+Código IR recibido: FB55006D
+Código IR recibido: C1FA2D96
+Código IR recibido: FB55006D
+Código IR recibido: 3EDB3D75
+Código IR recibido: EA0151CC
+Código IR recibido: FB55006D
+Código IR recibido: FB6F91B8
+Código IR recibido: FB55006D
+Código IR recibido: 2C1D3490
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 50859A5A
+Código IR recibido: 1D8F9A27
+Código IR recibido: 283F5DC2
+Código IR recibido: FD862BEB
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 5B28A02
+Código IR recibido: EA318ECE
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 91011A79
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: DD592DCB
+Código IR recibido: E08CEC0B
+Código IR recibido: F8852064
+Código IR recibido: AF444BF
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 94D0B7DF
+Código IR recibido: FB55006D
+Código IR recibido: E93CFBB8
+Código IR recibido: FB55006D
+Código IR recibido: 2AD1B3A0
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: F8232FE8
+Código IR recibido: 907A4DCA
+Código IR recibido: B4EDFED0
+Código IR recibido: 297CAB18
+Código IR recibido: 5B28A02
+Código IR recibido: FB55006D
+Código IR recibido: A26AD7C4
+Código IR recibido: FB55006D
+Código IR recibido: DEF13644
+Código IR recibido: 6D556CB
+Código IR recibido: 2E5871AC
+Código IR recibido: B46C0028
+Código IR recibido: 42E350A4
+Código IR recibido: AFDDCDB
+Código IR recibido: 6CD0E1DB
+Código IR recibido: 7A735D13
+Código IR recibido: C1FA2D96
+Código IR recibido: C4A14EEF
+Código IR recibido: 42E14CE8
+Código IR recibido: DD024D4A
+Código IR recibido: A3C3C58A
+Código IR recibido: F9788ADE
+Código IR recibido: FB55006D
+Código IR recibido: EF2E86EA
+Código IR recibido: FB55006D
+Código IR recibido: 5CE5E17E
+Código IR recibido: FC5501FE
+Código IR recibido: 29EF6585
+Código IR recibido: 2158532F
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: D51B2D00
+Código IR recibido: 3CB8BEFA
+Código IR recibido: DAE79015
+Código IR recibido: AF018D4F
+Código IR recibido: FB55006D
+Código IR recibido: FE862D7C
+Código IR recibido: CA4B13D1
+Código IR recibido: C4A14EEF
+Código IR recibido: DAC9D472
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: BDB815E2
+Código IR recibido: 581A809A
+Código IR recibido: FB55006D
+Código IR recibido: 5D68E8CF
+Código IR recibido: FB55006D
+Código IR recibido: 16C98C1A
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: CF7AE3E6
+Código IR recibido: FB55006D
+Código IR recibido: BDB815E2
+Código IR recibido: D3CE4F09
+Código IR recibido: 42E14CE8
+Código IR recibido: E08CEC0B
+Código IR recibido: B5B9AF8E
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 10EDDBED
+Código IR recibido: FB55006D
+Código IR recibido: 953EBD26
+Código IR recibido: 9A1EF5A9
+Código IR recibido: D412324B
+Código IR recibido: FB55006D
+Código IR recibido: B9F95E91
+Código IR recibido: B3FEAB6E
+Código IR recibido: 908889A5
+Código IR recibido: FB55006E
+SUBIR_VOLUME
+Código IR recibido: EF1239CC
+Código IR recibido: FB55006D
+Código IR recibido: C03A6A23
+Código IR recibido: FB55006D
+Código IR recibido: 2FADA15A
+Código IR recibido: FFDF9E78
+Código IR recibido: 195D522E
+Código IR recibido: 4978E600
+Código IR recibido: 9D1B5C16
+Código IR recibido: DCCDEDD3
+Código IR recibido: FB55006D
+Código IR recibido: 8D9B19F7
+Código IR recibido: 907A4DCA
+Código IR recibido: FB55006D
+Código IR recibido: D69DA2E3
+Código IR recibido: 9BE31E84
+Código IR recibido: FD862BEB
+Código IR recibido: 77E4C1AC
+Código IR recibido: A49FCB83
+Código IR recibido: FD9F44E1
+Código IR recibido: FB55006D
+Código IR recibido: 1B99FB65
+Código IR recibido: 9FEAB431
+Código IR recibido: FB55006D
+Código IR recibido: 97AB9102
+Código IR recibido: 314AB959
+Código IR recibido: 8BF6AC62
+Código IR recibido: B0D2E239
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: B4BC0C46
+Código IR recibido: FB55006D
+Código IR recibido: B550C79B
+Código IR recibido: FB55006D
+Código IR recibido: 59709ED6
+Código IR recibido: 89469C24
+Código IR recibido: FB55006D
+Código IR recibido: BFD68C13
+Código IR recibido: F866E889
+Código IR recibido: 517474B
+Código IR recibido: AF444BF
+Código IR recibido: A2C78E2B
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: AF444BF
+Código IR recibido: FD862BEB
+Código IR recibido: B03DD75
+Código IR recibido: E7B6B760
+Código IR recibido: FB55006D
+Código IR recibido: B474CE42
+Código IR recibido: A3C3C58A
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 7814618A
+Código IR recibido: FB55006D
+Código IR recibido: C02F3766
+Código IR recibido: FB55006D
+Código IR recibido: 712EFA39
+Código IR recibido: 2EB0F19C
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: A8D86A02
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: AF444BF
+Código IR recibido: 215F2CA0
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 2B47C082
+Código IR recibido: FB55006D
+Código IR recibido: A92A85DA
+Código IR recibido: BDB815E2
+Código IR recibido: E0AE206
+Código IR recibido: 9005E466
+Código IR recibido: C1BB1534
+Código IR recibido: FB55006D
+Código IR recibido: C44A4E67
+Código IR recibido: 81D77153
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 1FEC879D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 9DEF973E
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: C481D08E
+Código IR recibido: AAB9F43D
+Código IR recibido: CADA48CC
+Código IR recibido: FB55006D
+Código IR recibido: E8FB7B9B
+Código IR recibido: FB55006D
+Código IR recibido: EDDD211E
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: C74F0292
+Código IR recibido: EA318ECE
+Código IR recibido: FB55006D
+Código IR recibido: A49FCB83
+Código IR recibido: A5CFA46B
+Código IR recibido: 34653E72
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: C9F5B67B
+Código IR recibido: FB55006D
+Código IR recibido: C8F5B4E7
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: AF444BF
+Código IR recibido: FB55006D
+Código IR recibido: 5F1F5530
+Código IR recibido: 22271744
+Código IR recibido: A64DA7CD
+Código IR recibido: FB55006D
+Código IR recibido: 41069459
+Código IR recibido: FB55006D
+Código IR recibido: 4602E46F
+Código IR recibido: D412324B
+Código IR recibido: DA3528A6
+Código IR recibido: AF444BF
+Código IR recibido: B70C5602
+Código IR recibido: 4602E46F
+Código IR recibido: AFC9ED99
+Código IR recibido: 2158532F
+Código IR recibido: F97FA848
+Código IR recibido: 8A4D92C5
+Código IR recibido: C03CF418
+Código IR recibido: 7C20A5A4
+Código IR recibido: FB55006D
+Código IR recibido: 2D85A623
+Código IR recibido: FB55006E
+SUBIR_VOLUME
+Código IR recibido: 5B28A02
+Código IR recibido: C9F5B67B
+Código IR recibido: C9F5B67B
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FA5E4650
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: B56A58A
+Código IR recibido: 67888C6
+Código IR recibido: 827E9199
+Código IR recibido: FB55006D
+Código IR recibido: 84DE6CF8
+Código IR recibido: AF444BF
+Código IR recibido: F197948B
+Código IR recibido: 6D377339
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 46EA1E9E
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: DDB1B2F6
+Código IR recibido: C1FA2D96
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: E973AFDE
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 949E317A
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: DDB1B2F6
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: CED9CBB0
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: E08CEC0B
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: C9F5B67B
+Código IR recibido: 83BC1304
+Código IR recibido: FB55006D
+Código IR recibido: DEF13644
+Código IR recibido: FB55006D
+Código IR recibido: FB55006C
+Código IR recibido: A6BDBEFE
+Código IR recibido: FB55006D
+Código IR recibido: 23600F02
+Código IR recibido: FB55006D
+Código IR recibido: 13769D86
+Código IR recibido: 481E86BA
+Código IR recibido: B52DE0E9
+Código IR recibido: 13A694B1
+Código IR recibido: AAA0A205
+Código IR recibido: 932732D9
+Código IR recibido: 193436C
+Código IR recibido: 578D02E
+Código IR recibido: B1572353
+Código IR recibido: 7F975910
+Código IR recibido: CD1E515A
+Código IR recibido: 52016E21
+Código IR recibido: A6E1778C
+Código IR recibido: C9AC69AF
+Código IR recibido: 6D473077
+Código IR recibido: 66BFF0F3
+Código IR recibido: 673540E5
+Código IR recibido: FB55006D
+Código IR recibido: 13DA04D2
+Código IR recibido: 5A8F6AE8
+Código IR recibido: CD8AE16
+Código IR recibido: 241F1145
+Código IR recibido: 4FD3DAD4
+Código IR recibido: 4CC8D1E
+Código IR recibido: E05F9D8A
+Código IR recibido: 37E1CA7D
+Código IR recibido: 8137DFD6
+Código IR recibido: 3BA92B75
+Código IR recibido: FD862BEB
+Código IR recibido: C0F8B3DC
+Código IR recibido: 10AD07
+Código IR recibido: DBF43C72
+Código IR recibido: F3CA9F96
+Código IR recibido: 9EA06D9A
+Código IR recibido: BD3E7A7A
+Código IR recibido: C483472C
+Código IR recibido: 2E5871AC
+Código IR recibido: 1875A87E
+Código IR recibido: 5F2F4825
+Código IR recibido: E18925B4
+Código IR recibido: A9EF77C5
+Código IR recibido: F8C1FCD9
+Código IR recibido: F994E296
+Código IR recibido: B61E7EC6
+Código IR recibido: 71E3C304
+Código IR recibido: 64DCA4C9
+Código IR recibido: 683F14F6
+Código IR recibido: B50DE8DA
+Código IR recibido: 631762B4
+Código IR recibido: 36A6237B
+Código IR recibido: 48684723
+Código IR recibido: 7DB7BF11
+Código IR recibido: 585D712D
+Código IR recibido: C8A6B25B
+Código IR recibido: 92457C49
+Código IR recibido: 9CB81E29
+Código IR recibido: 1CEB8C2D
+Código IR recibido: D37407C6
+Código IR recibido: 1B53FB1D
+Código IR recibido: 406513C5
+Código IR recibido: 6E8C1BCC
+Código IR recibido: 58EDA8CF
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 36BDEC05
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 5B28A02
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 2EB0F19C
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: F81F26E6
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: A49D8C6
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: CBB184BD
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: D3552A69
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 5CA70A74
+Código IR recibido: 7E0336A9
+Código IR recibido: FB55006D
+Código IR recibido: 215F2CA0
+Código IR recibido: 78C442A9
+Código IR recibido: E93CFBB8
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: E45F87F6
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: EF1239CC
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: BB5955D8
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: A49D8C6
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 2EB0F19C
+Código IR recibido: FB55006D
+Código IR recibido: 14BC64FC
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: D54A9F48
+Código IR recibido: C7198EF8
+Código IR recibido: C9F5B67B
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: F9672798
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 4DBB63B2
+Código IR recibido: FB55006D
+Código IR recibido: 3BFEAD6
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: DF574469
+Código IR recibido: E45F87F6
+Código IR recibido: 795320AE
+Código IR recibido: 97E8950E
+Código IR recibido: FB55006D
+Código IR recibido: B4BC0C46
+Código IR recibido: FB55006D
+Código IR recibido: 9E7E51D0
+Código IR recibido: 42E14CE8
+Código IR recibido: 5B28A02
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 5B75E536
+Código IR recibido: FEDF92E0
+Código IR recibido: 76DC18D7
+Código IR recibido: B1CD7FF0
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: E0AE206
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 66368D97
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: F4756612
+Código IR recibido: 43A12E91
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: C63066DF
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: 601EDF69
+Código IR recibido: CA928D72
+Código IR recibido: CA928D72
+Código IR recibido: 5AEFEA28
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: 43A12E91
+Código IR recibido: EE0684A7
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: 8CE3749E
+Código IR recibido: CB6158C2
+Código IR recibido: 79763731
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: EF65864A
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D4782002
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: A5CAD07C
+Código IR recibido: 28B5B6F7
+Código IR recibido: FF368208
+Código IR recibido: FF368208
+Código IR recibido: 28762DF6
+Código IR recibido: 678AE1EE
+Código IR recibido: E5FB2FE6
+Código IR recibido: A0B8D1C
+Código IR recibido: A0B8D1C
+Código IR recibido: C7DCD880
+Código IR recibido: C7DCD880
+Código IR recibido: C7DCD880
+Código IR recibido: A0B8D1C
+Código IR recibido: C5FCFB5E
+Código IR recibido: FCF84419
+Código IR recibido: A0B8D1C
+Código IR recibido: 8B0C6C46
+Código IR recibido: 8AEC6984
+Código IR recibido: FD0222BC
+Código IR recibido: A876F394
+Código IR recibido: 17D5D546
+Código IR recibido: 17D5D546
+Código IR recibido: 17D5D546
+Código IR recibido: A876F394
+Código IR recibido: A876F394
+Código IR recibido: C06936C
+Código IR recibido: ECE5E516
+Código IR recibido: 28BAA59E
+Código IR recibido: 1A446491
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: 85A3D779
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: 5DD783BC
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 7ABBFE52
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: E3BEACB9
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 28762DF6
+Código IR recibido: EB0364A8
+Código IR recibido: AC8A05E4
+Código IR recibido: 773BE93E
+Código IR recibido: 773BE93E
+Código IR recibido: 3D5133A4
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: 8307F8A1
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: E30D0C5E
+Código IR recibido: D4782002
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: 145AD372
+Código IR recibido: B1E113A5
+Código IR recibido: FC722DE4
+Código IR recibido: EB13F5EE
+Código IR recibido: FC722DE4
+Código IR recibido: 55E42642
+Código IR recibido: 64AAC966
+Código IR recibido: 64AAC966
+Código IR recibido: 96DB6F18
+Código IR recibido: 64AAC966
+Código IR recibido: ADE91896
+Código IR recibido: 8F7589CE
+Código IR recibido: A2C40CEB
+Código IR recibido: DC7AC367
+Código IR recibido: C4C86E1B
+Código IR recibido: 44A35325
+Código IR recibido: 64AAC966
+Código IR recibido: FE27C9FC
+Código IR recibido: 64AAC966
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: FDA89127
+Código IR recibido: D5CF9337
+Código IR recibido: 76AFC04D
+Código IR recibido: CA9F90B2
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 31FBF637
+Código IR recibido: 47756E3C
+Código IR recibido: 4302A6E8
+Código IR recibido: 2D009F7C
+Código IR recibido: 3D1822C6
+Código IR recibido: 30E964B
+Código IR recibido: BCFF520A
+Código IR recibido: BCFF520A
+Código IR recibido: F4A327FA
+Código IR recibido: BA59BAC6
+Código IR recibido: 5ECEAEBB
+Código IR recibido: AC8A05E4
+Código IR recibido: 58C0A53
+Código IR recibido: C45C20AC
+Código IR recibido: 332701FE
+Código IR recibido: AFBE82A4
+Código IR recibido: AFBE82A4
+Código IR recibido: 9033E4E0
+Código IR recibido: EE975677
+Código IR recibido: 4F22E42A
+Código IR recibido: 773B1433
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 8F34877F
+Código IR recibido: BEDCE541
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 4C366251
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 898761B0
+Código IR recibido: 59F524B6
+Código IR recibido: 1CFC2046
+Código IR recibido: B3558716
+Código IR recibido: 79B439FE
+Código IR recibido: A876F394
+Código IR recibido: 8D90F4F0
+Código IR recibido: 8215A1CA
+Código IR recibido: C45C20AC
+Código IR recibido: 2DF889C1
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 3260E1FA
+SUBIR_VOLUME
+Código IR recibido: C7DCD880
+Código IR recibido: 391AB6C8
+Código IR recibido: 789734DC
+Código IR recibido: 4E580C31
+Código IR recibido: BCFF520A
+Código IR recibido: 4A2D77CC
+Código IR recibido: 773BE93E
+Código IR recibido: B791D84E
+Código IR recibido: E3BFAAEA
+Código IR recibido: 6841DA5A
+Código IR recibido: 3A5D0543
+Código IR recibido: E5FB2FE6
+Código IR recibido: BB7475D4
+Código IR recibido: B71BB5F5
+Código IR recibido: 12245007
+Código IR recibido: 64AAC966
+Código IR recibido: 28923E65
+Código IR recibido: 557EB9AC
+Código IR recibido: 7914745E
+Código IR recibido: 3B226B49
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 6C3AB0CC
+Código IR recibido: 7CEC9DC6
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: E7E41573
+Código IR recibido: 28762DF6
+Código IR recibido: 557EB9AC
+Código IR recibido: 8E2E3488
+Código IR recibido: 30C7E10B
+Código IR recibido: 28762DF6
+Código IR recibido: DCD728A1
+Código IR recibido: C71E16CB
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: C046D72C
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 6F56BFA
+Código IR recibido: A0564E10
+Código IR recibido: A5CAD07C
+Código IR recibido: 48CE2976
+Código IR recibido: 9BF322E
+Código IR recibido: D3970169
+Código IR recibido: 4CF478FD
+Código IR recibido: 9F5FACB0
+Código IR recibido: F743842
+Código IR recibido: 28762DF6
+Código IR recibido: 824487A6
+Código IR recibido: 28762DF6
+Código IR recibido: A5E53A66
+Código IR recibido: D4F59A66
+Código IR recibido: 383E69C6
+Código IR recibido: 581E3917
+Código IR recibido: 61D2E0C0
+Código IR recibido: 61D2E0C0
+Código IR recibido: 61D2E0C0
+Código IR recibido: 61D2E0C0
+Código IR recibido: DF1E788F
+Código IR recibido: D0F2065C
+SUBIR_VOLUME
+Código IR recibido: A74F6DF7
+Código IR recibido: D693DA34
+Código IR recibido: 5881D6A2
+Código IR recibido: 2C488EDC
+Código IR recibido: 993F1080
+Código IR recibido: 43A51404
+Código IR recibido: 7FB9D7DD
+Código IR recibido: FB3352AE
+Código IR recibido: 8E51128
+Código IR recibido: BCFF97BE
+Código IR recibido: 8E51128
+Código IR recibido: 52FB868C
+Código IR recibido: 7DCD3E39
+Código IR recibido: 27589116
+Código IR recibido: 8CDADE0B
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: 944161F8
+Código IR recibido: F35F7BB
+Código IR recibido: 34805A50
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: E060D3C3
+Código IR recibido: FDE73672
+Código IR recibido: 7B94395D
+Código IR recibido: A77532A1
+Código IR recibido: C8FF162B
+Código IR recibido: 47FA105
+Código IR recibido: 2890603A
+Código IR recibido: 8E51128
+Código IR recibido: 6355605A
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: 3F146651
+Código IR recibido: 1CFC2046
+Código IR recibido: 1CFC2046
+Código IR recibido: 1CFC2046
+Código IR recibido: 4728AC3D
+Código IR recibido: FD9D63FD
+Código IR recibido: 1CFC2046
+Código IR recibido: 1CFC2046
+Código IR recibido: 1CFC2046
+Código IR recibido: 82101E35
+Código IR recibido: 76F261E4
+Código IR recibido: E357D22
+Código IR recibido: 1CFC2046
+Código IR recibido: C1DBE0FA
+Código IR recibido: 6F56BFA
+Código IR recibido: 6F56BFA
+Código IR recibido: A9690055
+Código IR recibido: 8E51128
+Código IR recibido: DDD847E4
+Código IR recibido: 34092BB4
+Código IR recibido: 8E51128
+Código IR recibido: 28642F
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: D275B56A
+Código IR recibido: 5F960DDD
+Código IR recibido: 6F28F17F
+Código IR recibido: 8D9C113B
+Código IR recibido: FCDB7560
+Código IR recibido: 4A185957
+Código IR recibido: 653E17FF
+Código IR recibido: C6FB46B
+Código IR recibido: A16CEBA
+Código IR recibido: 3857C1D
+Código IR recibido: 79026FA
+Código IR recibido: 304C6F42
+Código IR recibido: 29216F70
+Código IR recibido: 3E830A6A
+Código IR recibido: DD6684EF
+Código IR recibido: C1D1D711
+Código IR recibido: FD41B2FB
+Código IR recibido: 10E9AFAC
+Código IR recibido: 796DAC4A
+Código IR recibido: 147564E7
+Código IR recibido: E7D7A2C
+Código IR recibido: 82CBE533
+Código IR recibido: 50A86880
+Código IR recibido: 24747D0D
+Código IR recibido: E0D33192
+Código IR recibido: DEBE060E
+Código IR recibido: 5390AA4E
+Código IR recibido: D504A137
+Código IR recibido: 382FA488
+Código IR recibido: 6AB15D45
+Código IR recibido: 574B5129
+Código IR recibido: E3CD89BB
+Código IR recibido: FB3352AE
+Código IR recibido: 24747D0D
+Código IR recibido: 9633B4CF
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: 285892A5
+Código IR recibido: 8E51128
+Código IR recibido: 6355605A
+Código IR recibido: E74574AF
+Código IR recibido: B8845512
+Código IR recibido: 92DF9572
+Código IR recibido: 2F0DB3A9
+Código IR recibido: 141684A8
+Código IR recibido: E5F9036
+Código IR recibido: 8E51128
+Código IR recibido: F91BE4D7
+Código IR recibido: 5E6B5174
+Código IR recibido: 60909574
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: 8E51128
+Código IR recibido: BC715772
+Código IR recibido: 1CFC2046
+Código IR recibido: 821CA5B1
+Código IR recibido: 1CFC2046
+Código IR recibido: 8942720C
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 5B28A02
+Código IR recibido: FB55006D
+Código IR recibido: A49D8C6
+Código IR recibido: FB55006C
+Código IR recibido: FB55006D
+Código IR recibido: B72041D1
+Código IR recibido: FB55006D
+Código IR recibido: 5B28A02
+Código IR recibido: ACA7C65A
+Código IR recibido: FB55006D
+Código IR recibido: FB55006C
+Código IR recibido: FB55006D
+Código IR recibido: D56C3EF6
+Código IR recibido: 94D0B7DF
+Código IR recibido: FB55006D
+Código IR recibido: C7198EF8
+Código IR recibido: EC8E5D49
+Código IR recibido: 2B259821
+Código IR recibido: AF444BF
+Código IR recibido: BF3A688F
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 4602E46F
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: DDB1B2F6
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: F3B3CB9
+Código IR recibido: B828AE2C
+Código IR recibido: FB55006D
+Código IR recibido: FB55006D
+Código IR recibido: 9ACC12E
+Código IR recibido: B23DEC6D
+Código IR recibido: 83BC1304
+Código IR recibido: 498288FA
+Código IR recibido: D731DCDB
+Código IR recibido: BFDDE6C
+Código IR recibido: FB55006D
+Código IR recibido: C9F5B67B
+Código IR recibido: 5B28A02
+Código IR recibido: FB55006D
+Código IR recibido: DD592DCB
+Código IR recibido: FB55006D
+Código IR recibido: 2C02FB25
+Código IR recibido: AA9D9BF5
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 90F5C28A
+Código IR recibido: 7BD13701
+Código IR recibido: F921C38E
+Código IR recibido: A43585B3
+Código IR recibido: 820BC7D6
+Código IR recibido: B2E6E88E
+Código IR recibido: 5D5D2B2F
+Código IR recibido: D1545884
+Código IR recibido: 99D68DB7
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 40B94971
+Código IR recibido: FF616444
+Código IR recibido: FF616444
+Código IR recibido: 13FF024C
+Código IR recibido: 41E42918
+Código IR recibido: F5C11DD1
+Código IR recibido: D1545884
+Código IR recibido: E910BB66
+Código IR recibido: 698F3D4E
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 17D5D546
+Código IR recibido: 1ADB114A
+Código IR recibido: 1ADB114A
+Código IR recibido: CFABAE0C
+Código IR recibido: 1ADB114A
+Código IR recibido: EDB6F017
+Código IR recibido: FF368208
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: F3AB117C
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: 1FA6E0C
+Código IR recibido: 1D788E6
+Código IR recibido: B2C0D225
+Código IR recibido: 5DD783BC
+Código IR recibido: 5DD783BC
+Código IR recibido: 5DD783BC
+Código IR recibido: AC050C4F
+Código IR recibido: 39D50C79
+Código IR recibido: D1FE6943
+Código IR recibido: 5754040F
+Código IR recibido: F5192C27
+Código IR recibido: FFA102B0
+Código IR recibido: B2BA6A1E
+Código IR recibido: B2BA6A1E
+Código IR recibido: 69232499
+Código IR recibido: B2BA6A1E
+Código IR recibido: B2BA6A1E
+Código IR recibido: A0D9198D
+Código IR recibido: 5A9DE81B
+Código IR recibido: B2A23A52
+Código IR recibido: A8F38450
+Código IR recibido: 16852206
+Código IR recibido: C42EF614
+Código IR recibido: 16852206
+Código IR recibido: 4D3D2530
+Código IR recibido: 16852206
+Código IR recibido: 7D6132F6
+Código IR recibido: D174C743
+Código IR recibido: 2EE6EE7E
+Código IR recibido: 2EE6EE7E
+Código IR recibido: 2EE6EE7E
+Código IR recibido: 2EE6EE7E
+Código IR recibido: 6FE93108
+Código IR recibido: FF368208
+Código IR recibido: 7342F624
+Código IR recibido: 283F96BF
+Código IR recibido: D4961506
+Código IR recibido: 93BB0DF4
+Código IR recibido: 93BB0DF4
+Código IR recibido: 93BB0DF4
+Código IR recibido: C4BE981A
+Código IR recibido: ABE580F4
+Código IR recibido: D26A233C
+Código IR recibido: 93BB0DF4
+Código IR recibido: 665EF7E6
+Código IR recibido: D2BB7A37
+Código IR recibido: E968AC18
+Código IR recibido: 93BB0DF4
+Código IR recibido: B34B8C3E
+Código IR recibido: 8AFE60FB
+Código IR recibido: 93BB0DF4
+Código IR recibido: 93BB0DF4
+Código IR recibido: 4F520EF4
+Código IR recibido: 3E1458B4
+Código IR recibido: 8D0EF83A
+Código IR recibido: 93BB0DF4
+Código IR recibido: 93BB0DF4
+Código IR recibido: 93BB0DF4
+Código IR recibido: E9167009
+Código IR recibido: 93BB0DF4
+Código IR recibido: 93BB0DF4
+Código IR recibido: 93BB0DF4
+Código IR recibido: 52A0ADDA
+Código IR recibido: D641D57C
+Código IR recibido: B1539ECB
+Código IR recibido: 339CED3
+Código IR recibido: 93BB0DF4
+Código IR recibido: B1539ECB
+Código IR recibido: 65E3FB03
+Código IR recibido: 8F6EF004
+Código IR recibido: C2B9B410
+Código IR recibido: 8B713F3D
+Código IR recibido: CBFCBA7C
+Código IR recibido: B677AC2D
+Código IR recibido: 373777FF
+Código IR recibido: AE8ED403
+Código IR recibido: 520735A4
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: C2B29B6A
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: 7E3B692E
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: 69BB53C1
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: C17A6BCA
+SUBIR_VOLUME
+Código IR recibido: 95B8278A
+Código IR recibido: A876F394
+Código IR recibido: 8D3D930D
+Código IR recibido: 5D28C4B1
+Código IR recibido: 22B86931
+Código IR recibido: AFB5D0D3
+Código IR recibido: A876F394
+Código IR recibido: 828E3223
+Código IR recibido: 9A58B07E
+Código IR recibido: A876F394
+Código IR recibido: A15078
+Código IR recibido: 60DEB19D
+Código IR recibido: 8AEC6984
+Código IR recibido: 2E8F7BBA
+Código IR recibido: 2E8F7BBA
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 2995F7B3
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 8CBE3E47
+Código IR recibido: C45E32C5
+Código IR recibido: ECAAE8EF
+Código IR recibido: E47B9B15
+Código IR recibido: 8AAA8FE4
+Código IR recibido: 4D78D9F
+Código IR recibido: 59F524B6
+Código IR recibido: F684F57C
+Código IR recibido: F684F57C
+Código IR recibido: 6AED45
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: E59F3DA4
+Código IR recibido: D72092E
+Código IR recibido: 90E51404
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: DA3222A5
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 2995F7B3
+Código IR recibido: C06936C
+Código IR recibido: AFBE82A4
+Código IR recibido: 2DBF45ED
+Código IR recibido: AFBE82A4
+Código IR recibido: 93E4AB8E
+Código IR recibido: B6089034
+Código IR recibido: B6089034
+Código IR recibido: B0935CFC
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: F41E2049
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: FEE65FAE
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: B6D2E5EC
+Código IR recibido: 6BA4788B
+Código IR recibido: 12C0F502
+Código IR recibido: 6F56BFA
+Código IR recibido: 91394D4B
+Código IR recibido: 2BB187BB
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: BAB9BB1F
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: FB918D46
+Código IR recibido: 6D241AB8
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: 8CE9660D
+Código IR recibido: 65BBC24B
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: A15078
+Código IR recibido: 3C11735
+Código IR recibido: C5586C49
+Código IR recibido: 64CD2846
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: B95F2400
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: 1EF4EA5F
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: C7BEA43A
+Código IR recibido: 2F4445B6
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 309B0331
+Código IR recibido: 1D788E6
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 4805C1D1
+Código IR recibido: 437AB788
+Código IR recibido: 437AB788
+Código IR recibido: 437AB788
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: 9D6A5807
+Código IR recibido: E394B49B
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: F41E2049
+Código IR recibido: 5E551483
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: 41B7AD2C
+Código IR recibido: D874BB90
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: A876F394
+Código IR recibido: E79BEDC8
+Código IR recibido: 5A4B15FD
+Código IR recibido: F976797C
+Código IR recibido: 32B54404
+Código IR recibido: BAB9BB1F
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 6C042557
+Código IR recibido: A4F4E932
+Código IR recibido: A4F4E932
+Código IR recibido: DAD783BA
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: 5BD5A01F
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: 7513FB84
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: A9BFDFB2
+SUBIR_VOLUME
+Código IR recibido: C5D9CF3E
+Código IR recibido: C3F275B7
+Código IR recibido: 64AAC966
+Código IR recibido: A01A1B4E
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 16EC10CD
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: FF368208
+Código IR recibido: 8AAA8FE4
+Código IR recibido: 607629E6
+Código IR recibido: 607629E6
+Código IR recibido: 607629E6
+Código IR recibido: 607629E6
+Código IR recibido: 607629E6
+Código IR recibido: 607629E6
+Código IR recibido: 2C538548
+Código IR recibido: 91C6CC66
+Código IR recibido: 607629E6
+Código IR recibido: CE301058
+Código IR recibido: 44743A16
+Código IR recibido: 2C538548
+Código IR recibido: 423099B4
+Código IR recibido: 607629E6
+Código IR recibido: FA811B88
+Código IR recibido: 607629E6
+Código IR recibido: 607629E6
+Código IR recibido: FFA102B0
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: 442081B6
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A6E53BF5
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A5E53A66
+Código IR recibido: A13F830A
+Código IR recibido: A13F830A
+Código IR recibido: B2D87D07
+Código IR recibido: A13F830A
+Código IR recibido: 5572483C
+Código IR recibido: A13F830A
+Código IR recibido: E4AA48F3
+Código IR recibido: A13F830A
+Código IR recibido: A13F830A
+Código IR recibido: A13F830A
+Código IR recibido: A13F830A
+Código IR recibido: A13F830A
+Código IR recibido: 76A13EBC
+Código IR recibido: AB58DEC9
+Código IR recibido: 75A13D29
+Código IR recibido: 9278DFE6
+Código IR recibido: A13F830A
+Código IR recibido: A13F830A
+Código IR recibido: A13F830A
+Código IR recibido: 6B546
+Código IR recibido: A13F830A
+Código IR recibido: 8A7995C
+Código IR recibido: 1AA3ADC4
+Código IR recibido: C76F70FD
+Código IR recibido: 1AA3ADC4
+Código IR recibido: B329295A
+Código IR recibido: 2A3EA6F6
+Código IR recibido: 3819CA43
+Código IR recibido: 1AA3ADC4
+Código IR recibido: 1AA3ADC4
+Código IR recibido: 1AA3ADC4
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: 73F02F6D
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: 19100028
+Código IR recibido: B78DB48C
+Código IR recibido: 65BBC24B
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 383E69C6
+Código IR recibido: 61C98808
+Código IR recibido: 2EC22164
+Código IR recibido: 332701FE
+Código IR recibido: EB0364A8
+Código IR recibido: EB0364A8
+Código IR recibido: C7E23A52
+Código IR recibido: 332701FE
+Código IR recibido: 2908C52C
+Código IR recibido: 332701FE
+Código IR recibido: 773BE93E
+Código IR recibido: AFBE82A4
+Código IR recibido: AFBE82A4
+Código IR recibido: AFBE82A4
+Código IR recibido: AFBE82A4
+Código IR recibido: AFBE82A4
+Código IR recibido: C1B2823D
+Código IR recibido: AFBE82A4
+Código IR recibido: AFBE82A4
+Código IR recibido: AFBE82A4
+Código IR recibido: D55D2169
+Código IR recibido: 332701FE
+Código IR recibido: A2E4131B
+Código IR recibido: 68A9AF38
+Código IR recibido: 956793D7
+Código IR recibido: 84DB3EE8
+Código IR recibido: 773BE93E
+Código IR recibido: 1D788E6
+Código IR recibido: CD83CEF2
+Código IR recibido: 3344315E
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: E12620F2
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 3A0A359F
+Código IR recibido: A612BAD0
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 64BBC0B4
+BAJAR_VOLUME
+Código IR recibido: 59FC6DDD
+Código IR recibido: 8AAA8FE4
+Código IR recibido: F29A1631
+Código IR recibido: 8D525066
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: C7112A88
+SUBIR_VOLUME
+Código IR recibido: 26403496
+Código IR recibido: A0B8D1C
+Código IR recibido: A394D71C
+Código IR recibido: 914666D7
+Código IR recibido: D32C4412
+Código IR recibido: 332701FE
+Código IR recibido: E79BEDC8
+Código IR recibido: E79BEDC8
+Código IR recibido: E79BEDC8
+Código IR recibido: 45172BFB
+Código IR recibido: 2EB0F19C
+Código IR recibido: 2AD1B3A0
+Código IR recibido: 23600F02
+Código IR recibido: E42505DB
+Código IR recibido: D93AAD50
+Código IR recibido: A2C78E2B
+GIRO_DERECHA
+Código IR recibido: 42E14CE8
+Código IR recibido: E56904B8
+Código IR recibido: D51B2D00
+GIRO_DERECHA
+Código IR recibido: 8854F91E
+GIRO_DERECHA
+Código IR recibido: BF3A688F
+Código IR recibido: 20A6B32E
+GIRO_DERECHA
+Código IR recibido: 7E524220
+Código IR recibido: 27119ECE
+Código IR recibido: B1CD7FF0
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: CDE839E0
+Código IR recibido: 9405856F
+Código IR recibido: 565DFAC
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: D1DB7655
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: A4CAFD3C
+Código IR recibido: A5CAD07C
+Código IR recibido: EA803854
+Código IR recibido: C2145CD0
+Código IR recibido: C2145CD0
+Código IR recibido: BC8383C8
+Código IR recibido: 79B439FE
+Código IR recibido: 48DED39C
+Código IR recibido: A5969128
+Código IR recibido: 4B600AA
+Código IR recibido: 5B7F84E9
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: E611A0A0
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: E79BEDC8
+Código IR recibido: 1FA6E0C
+Código IR recibido: 91D89AF3
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: 6BB2D2D1
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: A5E53A66
+Código IR recibido: C6E0AEC9
+Código IR recibido: 90F5C28A
+Código IR recibido: 90F5C28A
+Código IR recibido: 90F5C28A
+Código IR recibido: 59F524B6
+Código IR recibido: 59F524B6
+Código IR recibido: 59F524B6
+Código IR recibido: 90F5C28A
+Código IR recibido: 90F5C28A
+Código IR recibido: F7A04B21
+Código IR recibido: 90F5C28A
+Código IR recibido: EE1B29CB
+Código IR recibido: F9672798
+Código IR recibido: 5B75E536
+Código IR recibido: B4BC0C46
+Código IR recibido: FE550524
+Código IR recibido: F4FD3D08
+Código IR recibido: 175FE39E
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: DA8B0344
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: CA928D72
+Código IR recibido: CA928D72
+Código IR recibido: CA928D72
+Código IR recibido: 356B4551
+Código IR recibido: F87E0A8D
+Código IR recibido: D0F2065C
+ZOOM_IN
+Código IR recibido: CA928D72
+Código IR recibido: E945B9A8
+Código IR recibido: 72988BD
+Código IR recibido: 3695B516
+Código IR recibido: 48E0FA16
+Código IR recibido: 48E0FA16
+Código IR recibido: 190AD94E
+Código IR recibido: 190AD94E
+Código IR recibido: 190AD94E
+Código IR recibido: 3695B516
+Código IR recibido: 3695B516
+Código IR recibido: 7BA124C3
+Código IR recibido: F02126AA
+Código IR recibido: F9268ACC
+Código IR recibido: D6DEB41A
+Código IR recibido: F9268ACC
+Código IR recibido: 803AB4BC
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: E501791D
+Código IR recibido: 4D5102A8
+Código IR recibido: F4756612
+Código IR recibido: 980F8571
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: 71B990FD
+Código IR recibido: 4D5102A8
+Código IR recibido: DBBFC443
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: C3C83B05
+Código IR recibido: 4D716215
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: D5CF9337
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: 332701FE
+Código IR recibido: 2F4445B6
+Código IR recibido: 60C2866
+Código IR recibido: 33B07CCA
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: DD54F3A7
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 415B0457
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: 980F8571
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: DFE45401
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 9B212BA4
+Código IR recibido: E74D13C
+Código IR recibido: E74D13C
+Código IR recibido: 9BF322E
+Código IR recibido: 5FBE7CB7
+Código IR recibido: A5E53A66
+Código IR recibido: EB0364A8
+Código IR recibido: EB0364A8
+Código IR recibido: EB0364A8
+Código IR recibido: 5DD783BC
+Código IR recibido: 5DD783BC
+Código IR recibido: 5DD783BC
+Código IR recibido: EB0364A8
+Código IR recibido: A394D71C
+Código IR recibido: 4D5102A8
+Código IR recibido: 1EF4EA5F
+Código IR recibido: C06936C
+Código IR recibido: 20040A59
+Código IR recibido: 5DD783BC
+Código IR recibido: 5DD783BC
+Código IR recibido: 5DD783BC
+Código IR recibido: C1468F3F
+Código IR recibido: 5DD783BC
+Código IR recibido: F9C113C4
+Código IR recibido: C4F9A2F8
+Código IR recibido: 1DFA2E72
+Código IR recibido: 773BE93E
+Código IR recibido: AFBE82A4
+Código IR recibido: C45C20AC
+Código IR recibido: C45C20AC
+Código IR recibido: 1D9DD867
+Código IR recibido: 60C2866
+Código IR recibido: 60C2866
+Código IR recibido: 289933EF
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: C2145CD0
+Código IR recibido: 3260E1FA
+ZOOM_IN
+Código IR recibido: 1DC343F2
+Código IR recibido: 30CB8010
+Código IR recibido: 1D788E6
+Código IR recibido: BC8383C8
+Código IR recibido: BC8383C8
+Código IR recibido: BC8383C8
+Código IR recibido: A1413A48
+Código IR recibido: 1D788E6
+Código IR recibido: 98DAFABD
+Código IR recibido: 2F4445B6
+Código IR recibido: 5B00E415
+Código IR recibido: 90F5C28A
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 60C2866
+Código IR recibido: BC8383C8
+Código IR recibido: 52D2F741
+Código IR recibido: 9D6F67DC
+Código IR recibido: 332701FE
+Código IR recibido: 773BE93E
+Código IR recibido: 773BE93E
+Código IR recibido: 2D009F7C
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 6F56BFA
+Código IR recibido: 92FA0C7F
+Código IR recibido: 2D009F7C
+Código IR recibido: CFFF6827
+Código IR recibido: 557EB9AC
+Código IR recibido: D0CA900F
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 2D009F7C
+Código IR recibido: 2D009F7C
+Código IR recibido: 3D1822C6
+Código IR recibido: EE0D0A51
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 3D1822C6
+Código IR recibido: 3D1822C6
+Código IR recibido: 58A7CC6D
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 6433533B
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: D89D9FB2
+Código IR recibido: 5E14168
+Código IR recibido: 99160555
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 24052323
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: DA30C47D
+Código IR recibido: 8B3F4EC2
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 3D1822C6
+Código IR recibido: 3E182455
+Código IR recibido: 172F614D
+Código IR recibido: 66B86EAA
+Código IR recibido: CCA462DF
+Código IR recibido: 759ABC2C
+Código IR recibido: CA31541F
+Código IR recibido: 3D1822C6
+Código IR recibido: 3D1822C6
+Código IR recibido: 20253307
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 4D5612C0
+Código IR recibido: DD22BBDB
+Código IR recibido: 81E3AD
+Código IR recibido: 759ABC2C
+Código IR recibido: 3C75857E
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 629FFD29
+Código IR recibido: 7920D5D2
+Código IR recibido: 9D9D39BF
+Código IR recibido: 67C5914E
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 8DDFD93
+Código IR recibido: 3D1822C6
+Código IR recibido: 3D1822C6
+Código IR recibido: CA9F450
+Código IR recibido: 9510800E
+Código IR recibido: 447A3829
+Código IR recibido: 759ABC2C
+Código IR recibido: 6BB18819
+Código IR recibido: B14413D2
+Código IR recibido: EE94E31B
+Código IR recibido: 759ABC2C
+Código IR recibido: 89E0E836
+Código IR recibido: 769ABDC3
+Código IR recibido: 759ABC2C
+Código IR recibido: 53AB24D2
+Código IR recibido: 67C5914E
+Código IR recibido: 769ABDC3
+Código IR recibido: 759ABC2C
+Código IR recibido: D474FB0E
+Código IR recibido: 581805F9
+Código IR recibido: 15CBECAB
+Código IR recibido: 3462AE65
+Código IR recibido: EE94E31B
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: A90980FF
+Código IR recibido: 759ABC2C
+Código IR recibido: 1410DE40
+Código IR recibido: 759ABC2C
+Código IR recibido: 3D1822C6
+Código IR recibido: 3D1822C6
+Código IR recibido: 3D1822C6
+Código IR recibido: 74FA5B59
+Código IR recibido: 759ABC2C
+Código IR recibido: 447A3829
+Código IR recibido: 759ABC2C
+Código IR recibido: 714F3584
+Código IR recibido: 759ABC2C
+Código IR recibido: 604558A5
+Código IR recibido: 289A7E10
+Código IR recibido: BB133B24
+Código IR recibido: 759ABC2C
+Código IR recibido: 49997626
+Código IR recibido: C87DC912
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 67991E24
+Código IR recibido: 759ABC2C
+Código IR recibido: 40965398
+Código IR recibido: 67991E24
+Código IR recibido: 759ABC2C
+Código IR recibido: 6D70A0C1
+Código IR recibido: A31107BE
+Código IR recibido: 1026A1F7
+Código IR recibido: 68B59C1F
+Código IR recibido: 196856D1
+Código IR recibido: 759ABC2C
+Código IR recibido: 759ABC2C
+Código IR recibido: 89F36FD6
+Código IR recibido: 759ABC2C
+Código IR recibido: B95B1300
+Código IR recibido: 3D1822C6
+Código IR recibido: 3D1822C6
+Código IR recibido: 759ABC2C
+Código IR recibido: 153C00CB
+Código IR recibido: 759ABC2C
+Código IR recibido: C8009617
+Código IR recibido: 759ABC2C
+Código IR recibido: F0541CA7
+Código IR recibido: 4CB1F602
+Código IR recibido: 19DEC575
+Código IR recibido: 759ABC2C
+Código IR recibido: 3DC92812
+Código IR recibido: F59093CF
+Código IR recibido: 12B710F1
+Código IR recibido: 6D695C28
+Código IR recibido: B14413D2
+Código IR recibido: 759ABC2C
+Código IR recibido: E849E461
+Código IR recibido: 450CD322
+Código IR recibido: 557EB9AC
+Código IR recibido: 69C4E5B6
+Código IR recibido: 557EB9AC
+Código IR recibido: 557EB9AC
+Código IR recibido: 7919CD3C
+Código IR recibido: 9BFFE2C7
+Código IR recibido: 7919CD3C
+Código IR recibido: 7919CD3C
+Código IR recibido: D5064773
+Código IR recibido: 8EBFBE34
+Código IR recibido: 512825D8
+Código IR recibido: 2953FE40
+Código IR recibido: 6A6F0F78
+Código IR recibido: 49D763C3
+Código IR recibido: 26E58E0D
+Código IR recibido: 15D93488
+Código IR recibido: EDF595BA
+Código IR recibido: 420D3BAA
+Código IR recibido: F684F57C
+Código IR recibido: 88B31319
+Código IR recibido: 74309022
+Código IR recibido: D8C4D181
+Código IR recibido: AD11779D
+Código IR recibido: F6A1D263
+Código IR recibido: 99E4DE3E
+Código IR recibido: 89D55E53
+Código IR recibido: 41D488B9
+Código IR recibido: AE9F30EE
+Código IR recibido: 6FDBC1CC
+Código IR recibido: 893943E4
+Código IR recibido: 3623A797
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: 46BD371C
+Código IR recibido: 75ED88E6
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: A4FCA593
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: 1EFFE9BB
+Código IR recibido: BCFF520A
+Código IR recibido: 1D788E6
+Código IR recibido: 1D788E6
+Código IR recibido: 1002C720
+Código IR recibido: A9FED75E
+Código IR recibido: 535D88BE
+Código IR recibido: 55AB19D0
+Código IR recibido: 21C462EB
+Código IR recibido: 26E8480F
+Código IR recibido: B721E039
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 84BE8E0B
+Código IR recibido: A7948C19
+Código IR recibido: 535D88BE
+Código IR recibido: 6632555A
+Código IR recibido: D7CE54BE
+Código IR recibido: FDEA3721
+Código IR recibido: 5BEE39E2
+Código IR recibido: 396220E8
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 535D88BE
+Código IR recibido: CBD500C6
+Código IR recibido: C2B29B6A
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 313B820F
+Código IR recibido: 48DED39C
+Código IR recibido: F684F57C
+Código IR recibido: 420D3BAA
+Código IR recibido: 61D2E0C0
+Código IR recibido: 90F5C28A
+Código IR recibido: 90F5C28A
+Código IR recibido: 90F5C28A
+Código IR recibido: F684F57C
+Código IR recibido: F684F57C
+Código IR recibido: F684F57C
+Código IR recibido: 70C29F5
+Código IR recibido: 45A4092C
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: E501791D
+Código IR recibido: 789734DC
+Código IR recibido: 942CFCBC
+Código IR recibido: 3D1822C6
+Código IR recibido: FDB10C80
+Código IR recibido: 2934EDC0
+Código IR recibido: D9BE8F68
+Código IR recibido: FE0759DE
+Código IR recibido: 122ACAC
+Código IR recibido: 56E695D6
+Código IR recibido: 2E8F7BBA
+Código IR recibido: CA307CFA
+Código IR recibido: CD83CEF2
+Código IR recibido: A1413A48
+Código IR recibido: 57031EDB
+Código IR recibido: E2E220FF
+Código IR recibido: 6A7F8BA1
+Código IR recibido: 607629E6
+Código IR recibido: 8CAE270
+Código IR recibido: 61762B75
+Código IR recibido: 9BE01CB3
+Código IR recibido: 316C2F8C
+Código IR recibido: 93C74EB
+Código IR recibido: F5FFA11E
+Código IR recibido: FC722DE4
+Código IR recibido: 11A2B4FB
+Código IR recibido: 844A86DF
+Código IR recibido: CD83CEF2
+Código IR recibido: 407FF2B5
+Código IR recibido: FC722DE4
+Código IR recibido: 4080BFAA
+Código IR recibido: 2BA7A345
+Código IR recibido: B3FAF42
+Código IR recibido: CD83CEF2
+Código IR recibido: 12F4771
+Código IR recibido: 721B5C06
+Código IR recibido: AEA288A9
+Código IR recibido: C24AD076
+Código IR recibido: 1504D08A
+Código IR recibido: 332701FE
+Código IR recibido: 773BE93E
+Código IR recibido: FD7F544C
+Código IR recibido: B0580FD
+Código IR recibido: A00A1C11
+Código IR recibido: 53E6C4FA
+Código IR recibido: 2D009F7C
+Código IR recibido: 2D009F7C
+Código IR recibido: AA735AB1
+Código IR recibido: B4A1B4E8
+Código IR recibido: 3E9A4939
+Código IR recibido: 8AC20EA8
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: 658F57C3
+Código IR recibido: F1C5A492
+ZOOM_IN
+Código IR recibido: 46BD371C
+Código IR recibido: 40CF81A9
+Código IR recibido: 4D5102A8
+Código IR recibido: 725EA519
+Código IR recibido: B7359E68
+Código IR recibido: E54457CA
+Código IR recibido: 5E9D0D58
+Código IR recibido: 20F636E4
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 3B851876
+Código IR recibido: 6DDFEEFF
+Código IR recibido: F009DE8F
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 7B0F8B9E
+Código IR recibido: 5CF476C9
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: DB6ADF94
+Código IR recibido: BFED8D5E
+Código IR recibido: 7218267B
+Código IR recibido: 693D56F7
+Código IR recibido: 2208AE6D
+Código IR recibido: 5CA5FC67
+Código IR recibido: 42F4E644
+Código IR recibido: AD8A077B
+Código IR recibido: C35C1F19
+Código IR recibido: B4CFDB07
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: C17A6BCA
+ZOOM_IN
+Código IR recibido: 51930E48
+Código IR recibido: 33B07CCA
+Código IR recibido: 33B07CCA
+Código IR recibido: E9FE6CF6
+Código IR recibido: 68DCE6DE
+Código IR recibido: 96C51E80
+Código IR recibido: E79BEDC8
+Código IR recibido: DCD3D41F
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: F844FBEB
+Código IR recibido: 81436609
+Código IR recibido: 2F4445B6
+Código IR recibido: 9D6F67DC
+Código IR recibido: DD1B8CA1
+Código IR recibido: F4F866AF
+Código IR recibido: 8C5E5D83
+Código IR recibido: 43E90538
+Código IR recibido: 2F4445B6
+Código IR recibido: 3BF9227
+Código IR recibido: 2F4445B6
+Código IR recibido: 2F4445B6
+Código IR recibido: 2C11D794
+Código IR recibido: 3BF9227
+Código IR recibido: A78D8CB8
+Código IR recibido: 2F4445B6
+Código IR recibido: 76EB5329
+Código IR recibido: 9779EBA
+Código IR recibido: 260E1D00
+Código IR recibido: BA0509A
+Código IR recibido: 255C5594
+Código IR recibido: 42F4E644
+Código IR recibido: 10D7E3A9
+Código IR recibido: D01F4E62
+Código IR recibido: 375F6C4E
+Código IR recibido: 32201F8A
+Código IR recibido: 60892D72
+Código IR recibido: 332701FE
+Código IR recibido: FC1DDB13
+Código IR recibido: C14214D0
+Código IR recibido: 595B19B
+Código IR recibido: D65D22FC
+Código IR recibido: BD1E4BDE
+Código IR recibido: 332701FE
+Código IR recibido: 1431FB18
+Código IR recibido: D1B6FD02
+Código IR recibido: 41F1F3E6
+Código IR recibido: 579A13FF
+Código IR recibido: D565C899
+Código IR recibido: 5EE3A05D
+Código IR recibido: 332701FE
+Código IR recibido: 9A3317D1
+Código IR recibido: F6BFE01C
+Código IR recibido: 4AACED9B
+Código IR recibido: 32864E3D
+Código IR recibido: D3E4085
+Código IR recibido: 87241219
+Código IR recibido: C2EB4EF5
+Código IR recibido: 884038AC
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 80136128
+Código IR recibido: B505A76
+Código IR recibido: 33B07CCA
+Código IR recibido: 29923FF8
+Código IR recibido: 6557A7B0
+Código IR recibido: 316F6E68
+Código IR recibido: 8D90F4F0
+Código IR recibido: 33B07CCA
+Código IR recibido: 33B07CCA
+Código IR recibido: 33B07CCA
+Código IR recibido: 332701FE
+Código IR recibido: A67EA0AD
+Código IR recibido: 8831F6E3
+Código IR recibido: 26E43B5F
+Código IR recibido: 92A5C798
+Código IR recibido: 9B10346B
+Código IR recibido: 6657A947
+Código IR recibido: B630618C
+Código IR recibido: 80136128
+Código IR recibido: 9A8F1850
+Código IR recibido: 6557A7B0
+Código IR recibido: 332701FE
+Código IR recibido: DDA0A861
+Código IR recibido: FF86B466
+Código IR recibido: B630618C
+Código IR recibido: AFD9C3E7
+Código IR recibido: B630618C
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 3427038D
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 33B07CCA
+Código IR recibido: 33B07CCA
+Código IR recibido: 91A0262B
+Código IR recibido: B624207D
+Código IR recibido: AC428754
+Código IR recibido: CDE73F40
+Código IR recibido: 33B07CCA
+Código IR recibido: 16546164
+Código IR recibido: 64AAC966
+Código IR recibido: C058C504
+Código IR recibido: 80136128
+Código IR recibido: 332701FE
+Código IR recibido: A3C470B5
+Código IR recibido: 2FFF8C81
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 6414313B
+Código IR recibido: 332701FE
+Código IR recibido: 68A9AF38
+Código IR recibido: A67B94BF
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: F6BFE01C
+Código IR recibido: 3FC7B2BC
+Código IR recibido: 52611095
+Código IR recibido: 926638BF
+Código IR recibido: 332701FE
+Código IR recibido: 32864E3D
+Código IR recibido: 8F8EF551
+Código IR recibido: EEC2EF11
+Código IR recibido: 33B07CCA
+Código IR recibido: C14214D0
+Código IR recibido: 6B68492D
+Código IR recibido: 2808C399
+Código IR recibido: 884038AC
+Código IR recibido: 9B8F19E7
+Código IR recibido: 33B07CCA
+Código IR recibido: 63277B57
+Código IR recibido: 8194A372
+Código IR recibido: DD65FB5C
+Código IR recibido: F4FD82DD
+Código IR recibido: D9F75415
+Código IR recibido: 11A83E8D
+Código IR recibido: EE033323
+Código IR recibido: 6CFBD6E7
+Código IR recibido: 7B8EDFC7
+Código IR recibido: 884038AC
+Código IR recibido: 23A3E3A5
+Código IR recibido: 3FC7B2BC
+Código IR recibido: 332701FE
+Código IR recibido: 650B4FF3
+Código IR recibido: 693641FF
+Código IR recibido: 6CD91B85
+Código IR recibido: E0CE4051
+Código IR recibido: 11CA4109
+Código IR recibido: D10DFD96
+Código IR recibido: 884038AC
+Código IR recibido: C0B73EFF
+Código IR recibido: 99AB0CD
+Código IR recibido: 8234FCB0
+Código IR recibido: 332701FE
+Código IR recibido: 4F921829
+Código IR recibido: 33B07CCA
+Código IR recibido: CAEB3F6D
+Código IR recibido: 6832C568
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: A17A79D8
+Código IR recibido: 81601F7F
+Código IR recibido: 32677381
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: ADE80A95
+Código IR recibido: 332701FE
+Código IR recibido: 13277E7A
+Código IR recibido: 332701FE
+Código IR recibido: 9A8CD00F
+Código IR recibido: 1561732C
+Código IR recibido: F6BFE01C
+Código IR recibido: 6832C568
+Código IR recibido: 92A5C798
+Código IR recibido: 332701FE
+Código IR recibido: 2C77CDCC
+Código IR recibido: 5125EABA
+Código IR recibido: 332701FE
+Código IR recibido: 42C6464C
+Código IR recibido: 7ED3715F
+Código IR recibido: B630618C
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 849056A0
+Código IR recibido: 1561732C
+Código IR recibido: FAE0587
+Código IR recibido: 71308C56
+Código IR recibido: 33B07CCA
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 771FC52D
+Código IR recibido: DE89E7AF
+Código IR recibido: 64AAC966
+Código IR recibido: 10332C0C
+Código IR recibido: 81548A89
+Código IR recibido: 332701FE
+Código IR recibido: 2CC55787
+Código IR recibido: 332701FE
+Código IR recibido: 68A9AF38
+Código IR recibido: 1561732C
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 6F1C7E27
+Código IR recibido: 332701FE
+Código IR recibido: F6BFE01C
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 90F31E42
+Código IR recibido: C0724E7A
+Código IR recibido: 99083B97
+Código IR recibido: BE41B6DC
+Código IR recibido: 332701FE
+Código IR recibido: 8F8EF551
+Código IR recibido: 332701FE
+Código IR recibido: C0C196C4
+Código IR recibido: FD7E21A
+Código IR recibido: 830D7BC5
+Código IR recibido: FF8DD82C
+Código IR recibido: A8121E76
+Código IR recibido: 869E96D3
+Código IR recibido: 332701FE
+Código IR recibido: 3F4E3113
+Código IR recibido: 658B9F11
+Código IR recibido: B7901230
+Código IR recibido: 884038AC
+Código IR recibido: 332701FE
+Código IR recibido: E3E6628
+Código IR recibido: CCA2B96C
+Código IR recibido: AA3B5D07
+Código IR recibido: 92A5C798
+Código IR recibido: 332701FE
+Código IR recibido: EEFDDDBF
+Código IR recibido: C058C504
+Código IR recibido: BBBF4D28
+Código IR recibido: 95DD2796
+Código IR recibido: 92A5C798
+Código IR recibido: B630618C
+Código IR recibido: 3C49BF72
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 9F280483
+Código IR recibido: 40560C4A
+Código IR recibido: 8613A94C
+Código IR recibido: 6FB68F9B
+Código IR recibido: 2BFD58A0
+Código IR recibido: 332701FE
+Código IR recibido: 33B07CCA
+Código IR recibido: 33B07CCA
+Código IR recibido: 528ECB7B
+Código IR recibido: 957EBD43
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 33B07CCA
+Código IR recibido: DC93D5F7
+Código IR recibido: 3A4BB3D3
+Código IR recibido: CCA2B96C
+Código IR recibido: 332701FE
+Código IR recibido: 3F0F222F
+Código IR recibido: CF836ABF
+Código IR recibido: D213BAA8
+Código IR recibido: 8C2BDFDF
+Código IR recibido: DDE10355
+Código IR recibido: 3427038D
+Código IR recibido: 9A645551
+Código IR recibido: A01FC285
+Código IR recibido: 80136128
+Código IR recibido: 403E62A0
+Código IR recibido: 332701FE
+Código IR recibido: 8D90F4F0
+Código IR recibido: 30FDCA85
+Código IR recibido: 31BE9D15
+Código IR recibido: D65D22FC
+Código IR recibido: 6414313B
+Código IR recibido: 8D90F4F0
+Código IR recibido: ACFEA1A9
+Código IR recibido: B0D9CDF4
+Código IR recibido: CB9F86FF
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 4AD88756
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: F6BFE01C
+Código IR recibido: A21F6E01
+Código IR recibido: 332701FE
+Código IR recibido: 4A6728C
+Código IR recibido: 92A5C798
+Código IR recibido: 9349A011
+Código IR recibido: 332701FE
+Código IR recibido: F4FEC6BD
+Código IR recibido: 332701FE
+Código IR recibido: 3FC7B2BC
+Código IR recibido: AA3B5D07
+Código IR recibido: 368BAA3B
+Código IR recibido: 6E527A6B
+Código IR recibido: CCA2B96C
+Código IR recibido: CB8F987D
+Código IR recibido: 3A0397D7
+Código IR recibido: 332701FE
+Código IR recibido: 5237C925
+Código IR recibido: 18A7C227
+Código IR recibido: AFB1FB8B
+Código IR recibido: 33B07CCA
+Código IR recibido: 33B07CCA
+Código IR recibido: 1864EB9F
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 403E62A0
+Código IR recibido: D65D22FC
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 81E181A
+Código IR recibido: 2E576034
+Código IR recibido: 869E96D3
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 92A5C798
+Código IR recibido: E8C41457
+Código IR recibido: 332701FE
+Código IR recibido: D65D22FC
+Código IR recibido: 33A4A267
+Código IR recibido: 884038AC
+Código IR recibido: F6BFE01C
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 11CA4109
+Código IR recibido: 96C605C9
+Código IR recibido: 8B28DF78
+Código IR recibido: 33B07CCA
+Código IR recibido: A637977B
+Código IR recibido: 92A5C798
+Código IR recibido: 316F6E68
+Código IR recibido: 332701FE
+Código IR recibido: 496E74E4
+Código IR recibido: E07FB3FC
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 2179F316
+Código IR recibido: 332701FE
+Código IR recibido: 2C77CDCC
+Código IR recibido: 332701FE
+Código IR recibido: 316F6E68
+Código IR recibido: 332701FE
+Código IR recibido: 316F6E68
+Código IR recibido: 869E96D3
+Código IR recibido: 388B8F0F
+Código IR recibido: A3C470B5
+Código IR recibido: 80136128
+Código IR recibido: 608B01AA
+Código IR recibido: 34790E39
+Código IR recibido: 362706B7
+Código IR recibido: B8659539
+Código IR recibido: 2F4445B6
+Código IR recibido: 6DC37A3B
+Código IR recibido: E62D21DD
+Código IR recibido: 434FC118
+Código IR recibido: 30F0DF11
+Código IR recibido: 6A05E33D
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 884038AC
+Código IR recibido: 332701FE
+Código IR recibido: 6ED47EB2
+Código IR recibido: 332701FE
+Código IR recibido: 64500920
+Código IR recibido: 332701FE
+Código IR recibido: 94C66D9B
+Código IR recibido: D425DCC5
+Código IR recibido: 2F4445B6
+Código IR recibido: B3F2A737
+Código IR recibido: 332701FE
+Código IR recibido: 2BFD58A0
+Código IR recibido: 892C4124
+Código IR recibido: 332701FE
+Código IR recibido: 65F2E36B
+Código IR recibido: 81548A89
+Código IR recibido: 2F4445B6
+Código IR recibido: 6705DDBB
+Código IR recibido: 98E636D7
+Código IR recibido: 5EE3A05D
+Código IR recibido: 35202443
+Código IR recibido: 2F4445B6
+Código IR recibido: 219E9D45
+Código IR recibido: DDFB78A
+Código IR recibido: 4EF37319
+Código IR recibido: 7C922F33
+Código IR recibido: D65D22FC
+Código IR recibido: E04573C4
+Código IR recibido: 2F4445B6
+Código IR recibido: 910C5200
+Código IR recibido: 9D6F67DC
+Código IR recibido: EA2AA1FD
+Código IR recibido: 2F4445B6
+Código IR recibido: 332701FE
+Código IR recibido: 2F4445B6
+Código IR recibido: 332701FE
+Código IR recibido: 8F8EF551
+Código IR recibido: 2F4445B6
+Código IR recibido: D7E3AD1
+Código IR recibido: DE9BF197
+Código IR recibido: 2F4445B6
+Código IR recibido: 332701FE
+Código IR recibido: 2C77CDCC
+Código IR recibido: 96C605C9
+Código IR recibido: B665DEA
+Código IR recibido: 2F4445B6
+Código IR recibido: B79C180B
+Código IR recibido: 8BEE9D99
+Código IR recibido: 38044DFD
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 33B07CCA
+Código IR recibido: 33B07CCA
+Código IR recibido: D70E24FF
+Código IR recibido: D65D22FC
+Código IR recibido: 2340B476
+Código IR recibido: 2AD74B3C
+Código IR recibido: BC9EF80F
+Código IR recibido: 9F5739B8
+Código IR recibido: 869E96D3
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: C4C71718
+Código IR recibido: 332701FE
+Código IR recibido: 2C77CDCC
+Código IR recibido: 52AA1D05
+Código IR recibido: 12C3BD7D
+Código IR recibido: 81548A89
+Código IR recibido: 81548A89
+Código IR recibido: 332701FE
+Código IR recibido: 884038AC
+Código IR recibido: 332701FE
+Código IR recibido: 8DA069D4
+Código IR recibido: 650B4FF3
+Código IR recibido: 2F4445B6
+Código IR recibido: 81548A89
+Código IR recibido: B54EF751
+Código IR recibido: 2F4445B6
+Código IR recibido: 6BF1C3F9
+Código IR recibido: 32444A6F
+Código IR recibido: 6705DDBB
+Código IR recibido: 332701FE
+Código IR recibido: 33B07CCA
+Código IR recibido: 33B07CCA
+Código IR recibido: 10D7E3A9
+Código IR recibido: A56F2F76
+Código IR recibido: 196B6871
+Código IR recibido: 403E62A0
+Código IR recibido: 42C6464C
+Código IR recibido: CA891536
+Código IR recibido: 25E95A4E
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 101A828D
+Código IR recibido: 892C4124
+Código IR recibido: 332701FE
+Código IR recibido: 401D25
+Código IR recibido: AA036F69
+Código IR recibido: C2C7A4CF
+Código IR recibido: 332701FE
+Código IR recibido: 403E62A0
+Código IR recibido: 5F76186F
+Código IR recibido: 332701FE
+Código IR recibido: 6832C568
+Código IR recibido: 332701FE
+Código IR recibido: 4B37C45F
+Código IR recibido: D665CA2C
+Código IR recibido: C058C504
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 80136128
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 28923E65
+Código IR recibido: 195DC3BF
+Código IR recibido: 181FC5D6
+Código IR recibido: 2CC55787
+Código IR recibido: EA6E66DA
+Código IR recibido: 2BFD58A0
+Código IR recibido: D60E2368
+Código IR recibido: 64AAC966
+Código IR recibido: F2FC40FD
+Código IR recibido: C058C504
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: D0A52BD6
+Código IR recibido: AF131538
+Código IR recibido: 506473FB
+Código IR recibido: 7253F096
+Código IR recibido: 332701FE
+Código IR recibido: 332701FE
+Código IR recibido: 52611095
+Código IR recibido: 332701FE
+Código IR recibido: 6C77C703
+Código IR recibido: 68182CC6
+Código IR recibido: 41C5A60F
+Código IR recibido: 45B03AE0
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 838B30DB
+Código IR recibido: C5D9CF3E
+Código IR recibido: 8C6304C9
+Código IR recibido: 1EEABE0F
+Código IR recibido: 8AC20EA8
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: E5DA4400
+Código IR recibido: 4687010E
+Código IR recibido: 6293F0F3
+Código IR recibido: A93EF72C
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 2850CB2B
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: DFDE72C4
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 425B046
+Código IR recibido: 6F56BFA
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 2EC22164
+Código IR recibido: 336B9A99
+Código IR recibido: 2155195A
+Código IR recibido: 6F56BFA
+Código IR recibido: 8AC20EA8
+Código IR recibido: 8AC20EA8
+Código IR recibido: 8AC20EA8
+Código IR recibido: 145AD372
+Código IR recibido: E5FB2FE6
+Código IR recibido: BB2B2589
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 8DF1C3B5
+Código IR recibido: F96DF616
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 3B9A1B4A
+Código IR recibido: 3B9A1B4A
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 3B9A1B4A
+Código IR recibido: 3B9A1B4A
+Código IR recibido: 3B9A1B4A
+Código IR recibido: 3B9A1B4A
+Código IR recibido: A0945256
+Código IR recibido: C4985732
+Código IR recibido: C4985732
+Código IR recibido: C4985732
+Código IR recibido: C4985732
+Código IR recibido: C4985732
+Código IR recibido: C4985732
+Código IR recibido: C4985732
+Código IR recibido: C4985732
+Código IR recibido: C4985732
+Código IR recibido: C4985732
+Código IR recibido: C4985732
+Código IR recibido: B2B706A1
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: FF368208
+Código IR recibido: C56D76AA
+Código IR recibido: 97DE8F21
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: 84782397
+Código IR recibido: BA6D9FA4
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: 6F77C438
+Código IR recibido: DD54F3A7
+Código IR recibido: 67EA10A
+Código IR recibido: 607629E6
+Código IR recibido: CD83CEF2
+Código IR recibido: 145AD372
+Código IR recibido: A394D71C
+Código IR recibido: E409ADC6
+Código IR recibido: 60C2866
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: D4F59A66
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 50C8366E
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 773BE93E
+Código IR recibido: 773BE93E
+Código IR recibido: C45C20AC
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 8018DC3C
+Código IR recibido: AC8A05E4
+Código IR recibido: 81EF6459
+Código IR recibido: 964411B2
+Código IR recibido: 145AD372
+Código IR recibido: BB2B2589
+Código IR recibido: 145AD372
+Código IR recibido: 401771D1
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 557EB9AC
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: A4536759
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 8AC20EA8
+Código IR recibido: 452932FF
+Código IR recibido: D7D298D7
+Código IR recibido: F96DF616
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: F96DF616
+Código IR recibido: F96DF616
+Código IR recibido: F96DF616
+Código IR recibido: F96DF616
+Código IR recibido: F96DF616
+Código IR recibido: F96DF616
+Código IR recibido: 3B9A1B4A
+Código IR recibido: 3B9A1B4A
+Código IR recibido: 3B9A1B4A
+Código IR recibido: 3B9A1B4A
+Código IR recibido: CB92AF31
+Código IR recibido: 3B9A1B4A
+Código IR recibido: 3B9A1B4A
+Código IR recibido: 145AD372
+Código IR recibido: 4AAFA719
+Código IR recibido: 29CE6E01
+Código IR recibido: 34014707
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 50BC031A
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 26403496
+Código IR recibido: A4536759
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 145AD372
+Código IR recibido: 703524BC
+Código IR recibido: F96DF616
+Código IR recibido: F96DF616
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A8FCE553
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: A9BFDFB2
+ZOOM_IN
+Código IR recibido: 64BBC0B4
+ZOOM_OUT
+Código IR recibido: 1249ABE8
+Código IR recibido: 2D009F7C
+Código IR recibido: AE9F30EE
+Código IR recibido: AE9F30EE
+Código IR recibido: AE9F30EE
+Código IR recibido: AE9F30EE
+Código IR recibido: AE9F30EE
+Código IR recibido: 964411B2
+Código IR recibido: 1D788E6
+Código IR recibido: 1D788E6
+Código IR recibido: 8D88245F
+Código IR recibido: 605DA57D
+Código IR recibido: E79BEDC8
+Código IR recibido: DE49B4BE
+Código IR recibido: 1D788E6
+Código IR recibido: 1D788E6
+Código IR recibido: FE748E4
+Código IR recibido: 10CC613D
+Código IR recibido: 1D788E6
+Código IR recibido: 1D788E6
+Código IR recibido: 1D788E6
+Código IR recibido: AC7B9DFF
+Código IR recibido: 1D788E6
+Código IR recibido: 91D01CCD
+Código IR recibido: 1D788E6
+Código IR recibido: 90EA7B42
+Código IR recibido: 1D788E6
+Código IR recibido: 1D788E6
+Código IR recibido: 1D788E6
+Código IR recibido: 1D788E6
+Código IR recibido: 85A1211E
+Código IR recibido: 1D788E6
+Código IR recibido: 1D788E6
+Código IR recibido: 1D788E6
+Código IR recibido: FC722DE4
+Código IR recibido: FC722DE4
+Código IR recibido: 8AAA8FE4
+Código IR recibido: E573BEBF
+Código IR recibido: CD83CEF2
+Código IR recibido: CD83CEF2
+Código IR recibido: CD83CEF2
+Código IR recibido: 8AAA8FE4
+Código IR recibido: 8AAA8FE4
+Código IR recibido: B5922063
+Código IR recibido: 8AAA8FE4
+Código IR recibido: 39BF793A

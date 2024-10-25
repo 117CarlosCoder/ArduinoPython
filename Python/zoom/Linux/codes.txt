@@ -5477,3 +5477,234 @@ Código IR recibido: 624B6B43
 Código IR recibido: B082A139
 Código IR recibido: EBB43263
 Código IR recibido: 86288A23
+Código IR recibido: F5EAEE7D
+Código IR recibido: C7A70A64
+Código IR recibido: FFFFFFFF
+Código IR recibido: FFFFFFFF
+Código IR recibido: 7BC55B94
+Código IR recibido: FCABFFBF
+Código IR recibido: 4A4C966C
+Código IR recibido: FFFFFFFF
+Código IR recibido: F33B8B86
+Código IR recibido: FFFFFFFF
+Código IR recibido: 925066FD
+Código IR recibido: 4CB0FADD
+Código IR recibido: 9CBB9263
+Código IR recibido: 22AE7A28
+GIRO_DERECHA
+Código IR recibido: 4AB0F7B5
+Código IR recibido: E2428597
+Código IR recibido: 4AB0F7B5
+Código IR recibido: 4CB0FADD
+Código IR recibido: FCABFFBF
+Código IR recibido: CD51BE48
+Código IR recibido: 24AE7D4E
+Código IR recibido: 2D5ACF19
+Código IR recibido: FEAC02E5
+Código IR recibido: 96AC6CDD
+Código IR recibido: FCABFFBD
+Código IR recibido: 4AB0F7B5
+Código IR recibido: 4AB0F7B5
+Código IR recibido: F2EAE9C5
+Código IR recibido: F3EAEB55
+Código IR recibido: FCABFFBE
+Código IR recibido: DAE329E6
+Código IR recibido: FDA8326E
+Código IR recibido: FFFFFFFF
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 169CDC1F
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 84625A0F
+Código IR recibido: 20DF
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 24AE7D4C
+Código IR recibido: 6295FF25
+Código IR recibido: 81FDA25F
+Código IR recibido: EF9EED3F
+Código IR recibido: EC7241B7
+Código IR recibido: DBE32B77
+Código IR recibido: FEAC02E5
+Código IR recibido: 742B07DC
+Código IR recibido: E5075C65
+Código IR recibido: FCABFFBF
+Código IR recibido: D2486B48
+Código IR recibido: FCABFFBF
+Código IR recibido: 169CDC1F
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 705564DA
+Código IR recibido: 86288A23
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 86288A23
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: FFFFFFFF
+Código IR recibido: 86288A23
+Código IR recibido: FFFFFFFF
+Código IR recibido: 9AF29010
+Código IR recibido: FCABFFBF
+Código IR recibido: FFFFFFFF
+Código IR recibido: 7A4674E2
+Código IR recibido: FFFFFFFF
+Código IR recibido: 68A0DC54
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: EDF6FFB8
+Código IR recibido: 86288A23
+Código IR recibido: FFFFFFFF
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF
+Código IR recibido: FFFFFFFF

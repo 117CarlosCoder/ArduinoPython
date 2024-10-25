@@ -114,3 +114,50 @@ Código IR recibido: 20DF807F
 ZOOM_OUT
 Código IR recibido: 20DF807F
 ZOOM_OUT
+Código IR recibido: 4AB0F7B7
+Código IR recibido: AABF9D45
+Código IR recibido: 77DF9F53
+Código IR recibido: 1D2F0E71
+Código IR recibido: 112FC16B
+Código IR recibido: EBB56FCA
+Código IR recibido: FEAC02E5
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: FFFFFFFF
+Código IR recibido: 914F7E99
+Código IR recibido: 4CB0FADD
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 412633D7
+Código IR recibido: 6A19A4D1
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: FFFFFFFF
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF00FF
+ZOOM_IN
+Código IR recibido: 20DF
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 20DF807F
+ZOOM_OUT
+Código IR recibido: 86288A23
+Código IR recibido: 20DF

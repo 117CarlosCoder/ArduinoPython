@@ -4,7 +4,7 @@ import subprocess
 
 # Conectar al puerto serial de tu Arduino
 try:
-    arduino = serial.Serial('/dev/ttyACM2', 9600)  # Asegúrate de que este sea el puerto correcto
+    arduino = serial.Serial('/dev/ttyACM0', 9600)  # Asegúrate de que este sea el puerto correcto
     time.sleep(2)  # Espera para asegurar que la conexión esté lista
 except serial.SerialException as e:
     print(f"Error al conectar con el puerto serial: {e}")

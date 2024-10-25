@@ -3,7 +3,7 @@ import time
 
 # Conectar al puerto serial de tu Arduino
 try:
-    arduino = serial.Serial('COM3', 9600)  # Asegúrate de que este sea el puerto correcto para Windows
+    arduino = serial.Serial('COM0', 9600)  # Asegúrate de que este sea el puerto correcto para Windows
     time.sleep(2)  # Espera para asegurar que la conexión esté lista
 except serial.SerialException as e:
     print(f"Error al conectar con el puerto serial: {e}")

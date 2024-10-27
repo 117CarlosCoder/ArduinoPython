@@ -1,96 +1,93 @@
 import serial
 import serial.tools.list_ports
 import time
+import pyautogui 
 import subprocess
 import os
-
-def ejecutar_comando(script_name, use_sudo=False):
-    """
-    Ejecuta un comando con o sin privilegios de superusuario.
-    """
-    username = os.getlogin()
-    command = f"su -c '{script_name}' {username}" if use_sudo else script_name
-    process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-    
-    print(f"Ejecutando: {command}")
-    return process  # Regresar el proceso en lugar de esperar a que termine
 
 def manejar_mensaje(raw_string):
     """
     Procesa el mensaje recibido del puerto serial y ejecuta las acciones correspondientes.
     """
     if raw_string == "MOUSE_ARRIBA":
-        print("Haciendo mosue arriba...")
-        #ejecutar_comando("/home/carloslopez/scripts//*zoom_control.sh zoom_in")
-        ejecutar_comando("../../../Scripts/Linux/mouse_arriba.sh")
+        print("Haciendo mouse arriba...")
+        pyautogui.move(0, -30)  # Mueve el mouse 10 píxeles hacia arriba
     elif raw_string == "MOUSE_ABAJO":
         print("Haciendo mouse abajo...")
-        #ejecutar_comando("/home/carloslopez/scripts/zoom_control.sh zoom_out")
-        ejecutar_comando("../../../Scripts/Linux/mouse_abajo.sh")
+        pyautogui.move(0, 30)  # Mueve el mouse 10 píxeles hacia abajo
     elif raw_string == "ZOOM_IN":
         print("Haciendo zoom in...")
-        ejecutar_comando("../../../Scripts/Linux/zoom_control.sh zoom_in")
+        pyautogui.hotkey('ctrl', '+')  # Simula Ctrl + +
     elif raw_string == "ZOOM_OUT":
         print("Haciendo zoom out...")
-        ejecutar_comando("../../../Scripts/Linux/zoom_control.sh zoom_out")
+        pyautogui.hotkey('ctrl', '-')  # Simula Ctrl + -
     elif raw_string == "MOUSE_DERECHA":
         print("Haciendo mouse derecha...")
-        ejecutar_comando("../../../Scripts/Linux/mouse_derecha.sh")
+        pyautogui.move(30, 0)  # Mueve el mouse 10 píxeles hacia la derecha
     elif raw_string == "MOUSE_IZQUIERDA":
         print("Haciendo mouse izquierda...")
-        ejecutar_comando("../../../Scripts/Linux/mouse_izquierda.sh")
+        pyautogui.move(-30, 0)  # Mueve el mouse 10 píxeles hacia la izquierda
     elif raw_string == "CLICK_IZQUIERDA":
-        print("Haciendo mouse izquierda...")
-        ejecutar_comando("../../../Scripts/Linux/click_izquierda.sh")
+        print("Haciendo click izquierdo...")
+        pyautogui.click()  # Simula un click izquierdo
     elif raw_string == "TECLADO_PANTALLA":
-        #subprocess.Popen(['florence'], start_new_session=True)
-        print("Haciendo teclado pantalla...")
-        ejecutar_comando("../../../Scripts/Linux/teclado_pantalla.sh")
+        print("Abriendo teclado en pantalla...")
+        os.startfile("C:\\Windows\\System32\\osk.exe")  # Aquí puedes simular abrir el teclado en pantalla si es necesario
     elif raw_string == "ACTIVAR_NARRADOR":
-        print("Haciendo activar narrador..")
-        ejecutar_comando("../../../Scripts/Linux/activar_narrador.sh")
+        print("Haciendo activar narrador...")
+        pyautogui.hotkey('win', 'ctrl', 'enter ')  # Activa el narrador en Windows
     elif raw_string == "DESACTIVAR_NARRADOR":
-        print("Haciendo activar narrador..")
-        ejecutar_comando("../../../Scripts/Linux/desactivar_narrador.sh")
+        print("Haciendo desactivar narrador...")
+        pyautogui.hotkey('win', 'ctrl', 'enter')  # Desactiva el narrador
     elif raw_string == "VOLUMEN_MAS":
         print("Subiendo volumen...")
-
-        ejecutar_comando("../../../Scripts/subir_volumen.sh")
-
-
-
+        pyautogui.press('volumeup')  # Simula subir volumen, ajusta si es necesario
     elif raw_string == "VOLUMEN_MENOS":
-        os.environ["PULSE_SERVER"] = f"unix:/run/user/{os.getuid()}/pulse/native"
-        command = "pactl set-sink-volume @DEFAULT_SINK@ +5%"
-        print(f"Ejecutando: {command}")
-        print(os.environ['PATH'])
-
-        
-        result = subprocess.run(command, shell=True, capture_output=True, text=True)
-
-        if result.returncode == 0:
-            print(f"Comando ejecutado exitosamente: {result.stdout}")
-        else:
-            print(f"Error ejecutando el comando '{command}': {result.stderr}")
-
+        print("Bajando volumen...")
+        pyautogui.press('volumedown')  # Simula bajar volumen
     elif raw_string == "CAMBIAR_VENTANA":
         print("Cambiando ventana...")
-        ejecutar_comando("../../../Scripts/Linux/cambiar_ventana.sh")
+        pyautogui.hotkey('alt', 'tab')  # Cambia entre ventanas
     elif raw_string == "ABRIR_CHROME":
         print("Abriendo Chrome...")
-        ejecutar_comando("google-chrome", use_sudo=True)
+        pyautogui.hotkey('C:\Program Files\Google\Chrome\Application\chrome.exe')  # Abre una nueva ventana de incógnito en Chrome
     elif raw_string == "ABRIR_TERMINAL":
         print("Abriendo terminal...")
-        ejecutar_comando("../../../Scripts/Linux/abrir_terminal.sh", use_sudo=True)
+        pyautogui.hotkey('win', 'r')  # Abre el cuadro de diálogo "Ejecutar"
+        pyautogui.write('cmd')  # Escribe 'cmd' para abrir el terminal
+        pyautogui.press('enter')  # Presiona Enter
     elif raw_string == "ABRIR_VSCODE":
         print("Abriendo Visual Studio Code...")
-        ejecutar_comando("../../../Scripts/Linux/abrir_vscode.sh", use_sudo=True)
+        subprocess.Popen(['C:\\path\\to\\your\\vscode.exe'])  # Cambia esta ruta a la de tu Visual Studio Code
+    elif raw_string == "ABRIR_WORD":
+        print("Abriendo Microsoft Word...")
+        pyautogui.hotkey('win', 'r')  # Abre el cuadro de diálogo "Ejecutar"
+        pyautogui.write('winword')  # Escribe 'winword' para abrir Word
+        pyautogui.press('enter')  # Presiona Enter
+    elif raw_string == "ABRIR_YOUTUBE":
+        print("Abriendo YouTube en Microsoft Edge...")
+        pyautogui.hotkey('win', 'r')  # Abre el cuadro de diálogo "Ejecutar"
+        pyautogui.write('msedge')  # Escribe 'msedge' para abrir Microsoft Edge
+        pyautogui.press('enter')  # Presiona Enter
+        time.sleep(1)  # Espera un momento para que Edge se abra
+        pyautogui.write('https://www.youtube.com')  # Escribe la URL de YouTube
+        pyautogui.press('enter')  # Presiona Enter
+    elif raw_string == "ABRIR_CORTANA":
+        print("Abriendo Cortana...")
+        pyautogui.hotkey('win')  # Abre el menú de inicio
+        time.sleep(1)  # Espera un momento para que se abra
+        pyautogui.write('Cortana')  # Escribe 'Cortana'
+        pyautogui.press('enter')  # Presiona Enter
     elif raw_string == "SCROLL_ARRIBA":
         print("Haciendo scroll hacia arriba...")
-        ejecutar_comando("../../../Scripts/Linux/scroll_arriba.sh")
+        pyautogui.scroll(100)  # Desplaza hacia arriba
     elif raw_string == "SCROLL_ABAJO":
         print("Haciendo scroll hacia abajo...")
-        ejecutar_comando("../../../Scripts/Linux/scroll_abajo.sh")
+        pyautogui.scroll(-100)  # Desplaza hacia abajo
+    elif raw_string == "APAGAR_SISTEMA":
+        print("Apagar Sistema...")
+        subprocess.call(['shutdown', '/s', '/t', '0'])
+
     else:
         print(f"Comando no reconocido: {raw_string}")
 
@@ -100,7 +97,6 @@ def encontrar_puerto_arduino():
     """
     puertos = list(serial.tools.list_ports.comports())
     for p in puertos:
-        # Aquí buscamos puertos que contengan "Arduino" en la descripción
         print(f"Puerto encontrado: {p.device}, Descripción: {p.description}")  # Para depuración
         if "Arduino" in p.description or "ACM" in p.device:
             return p.device
@@ -122,23 +118,16 @@ def conectar_arduino(baudrate=9600):
     except serial.SerialException as e:
         print(f"Error al conectar con el puerto serial: {e}")
         exit(1)
-        
+
 def leer_mensajes(arduino):
     """
     Lee mensajes del puerto serial y los procesa.
     """
-    username = os.getlogin()
-    with open("codes.txt", "a") as file:
-        while True:
+    while True:
             try:
                 if arduino.in_waiting > 0:
                     raw_string = arduino.readline().decode('utf-8').strip()
                     print(f"Mensaje recibido: {raw_string}")
-
-                    # Guardar el código en el archivo
-                    file.write(f"{raw_string}\n")
-
-                    # Manejar el mensaje recibido
                     manejar_mensaje(raw_string)
             except KeyboardInterrupt:
                 print("Programa terminado por el usuario.")
@@ -153,14 +142,3 @@ if __name__ == "__main__":
     finally:
         arduino.close()
         print("Conexión con el Arduino cerrada.")
-
-
-def encontrar_puerto_arduino():
-    """
-    Encuentra el puerto al que está conectado el Arduino.
-    """
-    puertos = list(serial.tools.list_ports.comports())
-    for p in puertos:
-        if "Arduino" in p.description:
-            return p.device
-    return None

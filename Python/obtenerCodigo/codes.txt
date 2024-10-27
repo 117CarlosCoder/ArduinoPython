@@ -1,0 +1,2099 @@
+Código IR desconocido: FFCD78E
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: 72A98736
+Código IR desconocido: C40BD815
+Código IR desconocido: 61CE4776
+Código IR desconocido: 1D2F0E70
+ZOOM_IN
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: 22AE7A28
+Código IR desconocido: 79BB9A84
+Código IR desconocido: 2A049A94
+Código IR desconocido: 7711728C
+Código IR desconocido: 82057456
+Código IR desconocido: FEAC02E4
+Código IR desconocido: 24AE7D4F
+ZOOM_IN
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: F92C972C
+Código IR desconocido: 49B0F624
+Código IR desconocido: 487ED2C3
+Código IR desconocido: 83AC30CF
+Código IR desconocido: 93F36F4B
+ZOOM_OUT
+Código IR desconocido: 68C2F7A
+Código IR desconocido: B7A4CC34
+Código IR desconocido: C40BD817
+Código IR desconocido: 4B1EA853
+Código IR desconocido: 538F8EEB
+Código IR desconocido: 86673B10
+Código IR desconocido: 7EFE7E4C
+Código IR desconocido: 840C6DBB
+Código IR desconocido: 80CB9145
+SCROLL_ARRIBA
+Código IR desconocido: 69DBBC3D
+Código IR desconocido: 24AE7D4C
+Código IR desconocido: F97B0FE4
+Código IR desconocido: C60BDB3D
+Código IR desconocido: 233049C
+Código IR desconocido: 6FB84EC5
+ZOOM_IN
+Código IR desconocido: 69DBBC3E
+ZOOM_OUT
+Código IR desconocido: FEAC02E7
+Código IR desconocido: 152C71CE
+Código IR desconocido: 748CD850
+Código IR desconocido: 7B1FB3BA
+Código IR desconocido: 7ED96E7E
+Código IR desconocido: 7EEFC830
+Código IR desconocido: 69DBBC3C
+Código IR desconocido: 4AB0F7B7
+Código IR desconocido: C50BD9AA
+Código IR desconocido: 982D7F22
+Código IR desconocido: 4AB0F7B7
+SCROLL_ARRIBA
+Código IR desconocido: 57038383
+Código IR desconocido: 30DCC3D4
+Código IR desconocido: 25AE0594
+Código IR desconocido: 6FB84EC5
+Código IR desconocido: FEAC02E7
+Código IR desconocido: EF79891F
+ZOOM_IN
+Código IR desconocido: 9FE5DD4A
+Código IR desconocido: AB23092
+ZOOM_IN
+Código IR desconocido: 75D18CF4
+Código IR desconocido: C40BD817
+Código IR desconocido: AF67B321
+Código IR desconocido: 25AE7EE1
+Código IR desconocido: 94D06748
+Código IR desconocido: BB2C2E08
+CAMBIAR_VENTANA
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF9C6
+Código IR desconocido: B7299DEF
+Código IR desconocido: E4E2EAE3
+Código IR desconocido: 60C1BA14
+Código IR desconocido: 526C0AA9
+Código IR desconocido: 3F7CFBCD
+Código IR desconocido: 5249B23A
+Código IR desconocido: 5F44636
+Código IR desconocido: D52A1FE8
+Código IR desconocido: AD091922
+Código IR desconocido: 30D19B7E
+Código IR desconocido: BC3F8606
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: CAC347E0
+Código IR desconocido: 66E0F880
+Código IR desconocido: 3BD5E9C7
+Código IR desconocido: 1B0A04F
+SCROLL_ARRIBA
+Código IR desconocido: F2291B96
+Código IR desconocido: AAACD20F
+Código IR desconocido: 5BCC37EF
+Código IR desconocido: 193EC1AE
+Código IR desconocido: DA09492C
+Código IR desconocido: 1B2C526
+Código IR desconocido: 8161FA49
+Código IR desconocido: 70B8505A
+Código IR desconocido: 1F2F1197
+Código IR desconocido: DDE32E9C
+Código IR desconocido: 1F0D4E21
+SCROLL_ARRIBA
+Código IR desconocido: 515199F9
+Código IR desconocido: FCABFFBE
+Código IR desconocido: DAC8C9E0
+ZOOM_IN
+Código IR desconocido: 895D7065
+Código IR desconocido: B421CDA0
+Código IR desconocido: 554E36C1
+Código IR desconocido: 4CB0FADD
+ZOOM_IN
+Código IR desconocido: 7AE08A07
+Código IR desconocido: 30D19B7E
+Código IR desconocido: DBE32B77
+Código IR desconocido: 337E8D3F
+Código IR desconocido: CD51BE48
+Código IR desconocido: AAAC0E7B
+Código IR desconocido: 49B0F624
+Código IR desconocido: C835D433
+Código IR desconocido: F5EAEE7F
+Código IR desconocido: 32D19EA0
+Código IR desconocido: B75E75D1
+ZOOM_IN
+Código IR desconocido: 240E4F16
+Código IR desconocido: 4AB0F7B6
+Código IR desconocido: 20ECC4FA
+ZOOM_IN
+Código IR desconocido: 6B69BB22
+Código IR desconocido: 6E79A67D
+Código IR desconocido: 831D2AEE
+Código IR desconocido: FFCD78E
+Código IR desconocido: 25AE7EE1
+Código IR desconocido: A90428AE
+Código IR desconocido: 99590096
+Código IR desconocido: 12797242
+Código IR desconocido: 3F532484
+Código IR desconocido: 93920B62
+Código IR desconocido: 14D9D2ED
+Código IR desconocido: 1620A955
+Código IR desconocido: 9D334F56
+Código IR desconocido: A6F4461E
+Código IR desconocido: 25E27C03
+Código IR desconocido: C2C877A5
+Código IR desconocido: 5084D6EA
+Código IR desconocido: AF35C6FB
+Código IR desconocido: 25AE7EE3
+Código IR desconocido: 3021E98
+Código IR desconocido: 2804976D
+Código IR desconocido: 6049DDBE
+Código IR desconocido: 2E92CBB
+Código IR desconocido: 42363A8A
+Código IR desconocido: 4AB0F7B6
+Código IR desconocido: EA0E5282
+Código IR desconocido: E66CDA03
+Código IR desconocido: 4447FBEF
+Código IR desconocido: F57BD976
+Código IR desconocido: 8B772C81
+Código IR desconocido: F9C015E7
+Código IR desconocido: 80EFCB56
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: 3688C60F
+Código IR desconocido: 74DD4ADA
+Código IR desconocido: AC71467E
+Código IR desconocido: 85FF02EF
+Código IR desconocido: 4CF27BD5
+Código IR desconocido: 219E0
+Código IR desconocido: 24AE7D4E
+Código IR desconocido: DBE32B77
+Código IR desconocido: AE478B66
+Código IR desconocido: 9D37B0D7
+Código IR desconocido: 4CAF129F
+Código IR desconocido: 5E13A5DD
+Código IR desconocido: 1323F5D3
+Código IR desconocido: 30D19B7D
+Código IR desconocido: 5733C29D
+ZOOM_IN
+Código IR desconocido: C2E49290
+ZOOM_IN
+ZOOM_IN
+Código IR desconocido: 43A46D69
+Código IR desconocido: DCF821DC
+Código IR desconocido: 953DF57D
+Código IR desconocido: 1161813F
+Código IR desconocido: 45044FCA
+Código IR desconocido: CA2FDEB
+Código IR desconocido: 7A48FAAD
+Código IR desconocido: 6DDEB40
+Código IR desconocido: CFB22FBA
+Código IR desconocido: 498D6522
+Código IR desconocido: 8F160771
+Código IR desconocido: 75DF9C2E
+Código IR desconocido: 70D8F290
+Código IR desconocido: 1FBB7D56
+Código IR desconocido: 4AB0F7B7
+ZOOM_IN
+Código IR desconocido: B740F880
+Código IR desconocido: 65D321CD
+Código IR desconocido: CEE87283
+Código IR desconocido: 34DECB2
+Código IR desconocido: AEAC0650
+Código IR desconocido: A5531888
+Código IR desconocido: FFFF7C20
+Código IR desconocido: 22B996FE
+Código IR desconocido: 6A138E9A
+Código IR desconocido: 98EAAEF0
+Código IR desconocido: D0307156
+Código IR desconocido: DAE329E4
+ZOOM_OUT
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: FBDAB66E
+Código IR desconocido: 6E1340C2
+Código IR desconocido: 56EE931
+Código IR desconocido: C1FF684A
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 4CB0FADC
+Código IR desconocido: 4CB0FADF
+ZOOM_IN
+Código IR desconocido: 65BDDD67
+Código IR desconocido: 3EDCD7B7
+Código IR desconocido: AAD57E3F
+Código IR desconocido: 8FB93447
+Código IR desconocido: 475B82A1
+Código IR desconocido: 2C785C4F
+Código IR desconocido: BBB85F3A
+Código IR desconocido: 33C7D23A
+Código IR desconocido: 9E393E18
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: 1DB7A242
+Código IR desconocido: FD16AA49
+Código IR desconocido: 2804976F
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: BFBD49E5
+Código IR desconocido: C2E49291
+Código IR desconocido: 22AE7A28
+Código IR desconocido: FD0EC750
+Código IR desconocido: 5DF2E92A
+ZOOM_IN
+Código IR desconocido: FDAC0153
+Código IR desconocido: 9518B0A1
+Código IR desconocido: 81AC2DA7
+Código IR desconocido: 155697A8
+Código IR desconocido: 84F2F019
+Código IR desconocido: EF74E814
+Código IR desconocido: 97DB2B6E
+Código IR desconocido: 75E61CCF
+Código IR desconocido: 411A6BD9
+Código IR desconocido: 452B0772
+Código IR desconocido: 4CB0FADD
+ZOOM_OUT
+Código IR desconocido: 9E5C394E
+Código IR desconocido: 33D50609
+Código IR desconocido: BB019F87
+Código IR desconocido: 1A27C038
+Código IR desconocido: 901C1F38
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: E2FCEF52
+Código IR desconocido: 7FD2F8B9
+Código IR desconocido: 7E8E1178
+Código IR desconocido: CFBC127A
+Código IR desconocido: 4BD03788
+Código IR desconocido: 7B230D46
+Código IR desconocido: 8E1C1C16
+Código IR desconocido: 24AE7D4C
+ZOOM_IN
+Código IR desconocido: 4CB0FADC
+Código IR desconocido: 20DF9C63
+Código IR desconocido: 20DF
+Código IR desconocido: 20DF9C63
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF9C63
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF9C63
+Código IR desconocido: D2E31F93
+Código IR desconocido: A7AEA812
+Código IR desconocido: E8680B8C
+Código IR desconocido: AEE0E3E1
+Código IR desconocido: D6003F22
+Código IR desconocido: 2BAD3D0C
+Código IR desconocido: 4BD03788
+Código IR desconocido: ECD7D22
+Código IR desconocido: 81AC2DA7
+Código IR desconocido: 19E99842
+Código IR desconocido: A37E6756
+Código IR desconocido: 2D99D5D0
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: 3C646EBF
+Código IR desconocido: 5DCAE9D
+ZOOM_IN
+Código IR desconocido: 259EC3A0
+Código IR desconocido: E5C9D0B2
+Código IR desconocido: C1E490FC
+ZOOM_IN
+Código IR desconocido: 2AB3A7D7
+Código IR desconocido: 62AE4F7F
+Código IR desconocido: 6FB84EC5
+Código IR desconocido: D4D65C58
+Código IR desconocido: 56332FA2
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: A565799A
+Código IR desconocido: E9B96461
+Código IR desconocido: 88A872F4
+Código IR desconocido: 3425BD8A
+Código IR desconocido: 6867CED
+Código IR desconocido: 525C72AC
+Código IR desconocido: F5EAEE7F
+Código IR desconocido: E307B8B7
+Código IR desconocido: BE10B8AC
+Código IR desconocido: 8D9B900C
+ZOOM_OUT
+Código IR desconocido: 30FB99E4
+Código IR desconocido: A7163268
+Código IR desconocido: F67A4D6C
+Código IR desconocido: A3D0048A
+Código IR desconocido: E1371E84
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: F73C5CA0
+Código IR desconocido: C40BD817
+ZOOM_IN
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: F5EAEE7D
+Código IR desconocido: 5465099F
+Código IR desconocido: DFE41401
+Código IR desconocido: 771F0ECA
+Código IR desconocido: 902E0C20
+Código IR desconocido: BC74420F
+Código IR desconocido: 37E060C5
+Código IR desconocido: A13915BD
+Código IR desconocido: 2A180B08
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: D13A65CD
+Código IR desconocido: 269C647D
+Código IR desconocido: 20DF
+Código IR desconocido: 8EF00E24
+Código IR desconocido: 464C69FA
+Código IR desconocido: 27C3C168
+Código IR desconocido: 8BC2E2FC
+Código IR desconocido: 6A19A4D1
+Código IR desconocido: 551F76FB
+Código IR desconocido: 9C7D6685
+Código IR desconocido: 6316B1AD
+Código IR desconocido: 1E282337
+Código IR desconocido: 63B13B32
+Código IR desconocido: DA75E35
+Código IR desconocido: 2CF21250
+Código IR desconocido: 441185BA
+Código IR desconocido: C40BD815
+Código IR desconocido: A9A4C9D1
+Código IR desconocido: 21AC3851
+Código IR desconocido: 384E34DF
+Código IR desconocido: 2804976D
+Código IR desconocido: 25AE7EE3
+Código IR desconocido: 6B6AC24E
+Código IR desconocido: 2FE99598
+ZOOM_OUT
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 58C2D52C
+ZOOM_OUT
+Código IR desconocido: A7AEA810
+ZOOM_OUT
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: CC1EB7F0
+ZOOM_OUT
+Código IR desconocido: 6D718389
+Código IR desconocido: 53B22D63
+ZOOM_OUT
+Código IR desconocido: BA29EDC0
+Código IR desconocido: DB898152
+Código IR desconocido: A2CE11AE
+Código IR desconocido: EC41FDEE
+Código IR desconocido: C9D25585
+Código IR desconocido: F5C2ABB1
+Código IR desconocido: 67BCF0AC
+Código IR desconocido: 8E27ADC0
+Código IR desconocido: D080D97D
+Código IR desconocido: 3CA3E3A6
+Código IR desconocido: 3235C718
+Código IR desconocido: 4E92839D
+Código IR desconocido: 76357BD0
+Código IR desconocido: CF6255A8
+Código IR desconocido: 15E04D2F
+Código IR desconocido: 54920ACC
+Código IR desconocido: DF06FB9E
+Código IR desconocido: 8A06007E
+Código IR desconocido: 1B4498A9
+Código IR desconocido: 7657FAB8
+Código IR desconocido: C0CD9321
+Código IR desconocido: 6F134255
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: F5EAEE7D
+Código IR desconocido: D4401090
+Código IR desconocido: 5724F242
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: 5EB36DE3
+Código IR desconocido: 7567B3BA
+Código IR desconocido: 5FD94725
+Código IR desconocido: 7E9A1972
+Código IR desconocido: AF76946B
+Código IR desconocido: D5D225D2
+Código IR desconocido: B16627EA
+Código IR desconocido: D9FF9F77
+Código IR desconocido: 1D7363C4
+Código IR desconocido: FA62D9CC
+Código IR desconocido: 2764839A
+Código IR desconocido: 2C69B10F
+Código IR desconocido: F39B1D21
+Código IR desconocido: B0F05A32
+Código IR desconocido: 8C451588
+Código IR desconocido: B174125E
+Código IR desconocido: 8733496B
+Código IR desconocido: C50BD9A8
+Código IR desconocido: DE80C3EB
+Código IR desconocido: 736E702
+Código IR desconocido: 2D145E32
+Código IR desconocido: D5C49CF8
+Código IR desconocido: 81494966
+Código IR desconocido: 8D34DBED
+Código IR desconocido: 56B7A5E6
+Código IR desconocido: CD677C79
+Código IR desconocido: 6D849FB2
+Código IR desconocido: 6F09EEC8
+Código IR desconocido: 3CE97141
+Código IR desconocido: 3356DF47
+Código IR desconocido: B61768B8
+Código IR desconocido: 90E04CEE
+Código IR desconocido: EFF1AF52
+Código IR desconocido: 59C55EAF
+Código IR desconocido: B4F74BD5
+Código IR desconocido: CB718FBF
+Código IR desconocido: B87BDD42
+Código IR desconocido: 5B99235D
+Código IR desconocido: 7DB7F246
+Código IR desconocido: 7259F315
+Código IR desconocido: 83E82762
+Código IR desconocido: A8B9D1CA
+Código IR desconocido: 650575AD
+Código IR desconocido: 1BDF8C52
+Código IR desconocido: CB691E9
+Código IR desconocido: A6E5F4F2
+Código IR desconocido: C6226D50
+Código IR desconocido: 3CCE87
+Código IR desconocido: FF152822
+Código IR desconocido: 57D54399
+Código IR desconocido: 85DD180D
+Código IR desconocido: F825842F
+Código IR desconocido: 4DB61D85
+Código IR desconocido: F986ADCA
+Código IR desconocido: BFE48DDA
+ZOOM_OUT
+Código IR desconocido: 86700F24
+Código IR desconocido: 70A39AD4
+Código IR desconocido: 983937AC
+Código IR desconocido: 8EDE3513
+Código IR desconocido: C40BD817
+Código IR desconocido: F8F20705
+Código IR desconocido: 7259F317
+Código IR desconocido: BAA4D0ED
+Código IR desconocido: A092813E
+Código IR desconocido: 81F928E
+Código IR desconocido: 2F6352B6
+Código IR desconocido: 1FCCD9EF
+Código IR desconocido: F2EAE9C5
+Código IR desconocido: A3F321FF
+Código IR desconocido: CB7DEA2
+Código IR desconocido: 23DD33FB
+Código IR desconocido: 4052B3BA
+Código IR desconocido: 8647F90C
+Código IR desconocido: EAD7523A
+Código IR desconocido: F6EAE62
+Código IR desconocido: 2BB3A96B
+Código IR desconocido: FEAC02E4
+Código IR desconocido: 9B2D83D9
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: 5702AB2A
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF22DD
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: AD51BFA1
+Código IR desconocido: EA0E5280
+Código IR desconocido: D52A1FEA
+Código IR desconocido: 5303EA8
+Código IR desconocido: 3A30E3AD
+ZOOM_IN
+Código IR desconocido: 114FE1C0
+Código IR desconocido: F417F0D2
+Código IR desconocido: 513869F
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: 22AE7A29
+Código IR desconocido: 68F39336
+ZOOM_IN
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: ACA7E16A
+Código IR desconocido: 6FB84EC6
+Código IR desconocido: CFB1259D
+Código IR desconocido: 20DF22DD
+Código IR desconocido: 83DF9AA2
+Código IR desconocido: AC477885
+Código IR desconocido: DE8D48A3
+Código IR desconocido: C40BD817
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+ZOOM_IN
+ZOOM_IN
+ZOOM_IN
+ZOOM_IN
+Código IR desconocido: 69C565AF
+Código IR desconocido: 9F1C5571
+ZOOM_IN
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 27A5CC5
+ZOOM_IN
+Código IR desconocido: 20DF
+ZOOM_IN
+Código IR desconocido: 20DF
+ZOOM_IN
+Código IR desconocido: FFFFFFFF
+ZOOM_IN
+Código IR desconocido: 20DF
+Código IR desconocido: FFFFFFFF
+ZOOM_IN
+Código IR desconocido: FFFFFFFF
+ZOOM_IN
+ZOOM_IN
+ZOOM_IN
+ZOOM_IN
+ZOOM_IN
+ZOOM_IN
+ZOOM_IN
+Código IR desconocido: 20DF
+ZOOM_IN
+Código IR desconocido: CBB2FE4C
+Código IR desconocido: 1AE63B08
+Código IR desconocido: 88659737
+Código IR desconocido: 881C17A7
+Código IR desconocido: 8859D2A0
+Código IR desconocido: 2E27040C
+Código IR desconocido: DCF2D12A
+Código IR desconocido: 26600C4D
+Código IR desconocido: F2EAE9C5
+Código IR desconocido: 1649DFAC
+Código IR desconocido: 4DB5DAAA
+ZOOM_IN
+Código IR desconocido: D204BE19
+Código IR desconocido: E61F7107
+Código IR desconocido: 24AE7D4E
+Código IR desconocido: 25AE7EE3
+Código IR desconocido: 16F69CF9
+Código IR desconocido: F5EAEE7F
+ZOOM_IN
+ZOOM_IN
+Código IR desconocido: F72C9406
+Código IR desconocido: F4E60A8F
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: 4D33CD4
+Código IR desconocido: 8FDE36A5
+ZOOM_IN
+ZOOM_IN
+ZOOM_IN
+Código IR desconocido: 2E80AE0D
+Código IR desconocido: 2804976E
+Código IR desconocido: 412D9F2E
+Código IR desconocido: 474307A4
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 32684276
+Código IR desconocido: FACBFA5A
+Código IR desconocido: 33E558B2
+Código IR desconocido: 55F0C1BE
+Código IR desconocido: E5AB487C
+Código IR desconocido: 2ED85AFF
+Código IR desconocido: 2AE95AAB
+Código IR desconocido: 6AA5A733
+Código IR desconocido: 45202491
+Código IR desconocido: F5EAEE7F
+ZOOM_IN
+Código IR desconocido: 4E2C2F6D
+ZOOM_OUT
+ZOOM_OUT
+ZOOM_OUT
+ZOOM_OUT
+Código IR desconocido: 9B188C
+Código IR desconocido: 73B36D33
+ZOOM_OUT
+Código IR desconocido: 99EBE764
+Código IR desconocido: 5FE1DCDD
+Código IR desconocido: CF51B735
+ZOOM_OUT
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: F9FDD150
+Código IR desconocido: 5015248D
+ZOOM_OUT
+ZOOM_OUT
+Código IR desconocido: 20DF
+Código IR desconocido: 88E1A1F9
+Código IR desconocido: 81D7D042
+Código IR desconocido: 2CBC34C6
+Código IR desconocido: 11D53A45
+Código IR desconocido: 4AB0F7B7
+Código IR desconocido: 4AB0F7B6
+Código IR desconocido: 8463133
+Código IR desconocido: 22AE7A29
+49B0F626
+ZOOM_IN
+Código IR desconocido: D9FF9F77
+22AE7A2A
+SCROLL_ARRIBA
+Código IR desconocido: 25AE7EE1
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: 7F250C2C
+Código IR desconocido: 5A11257
+Código IR desconocido: A215BB14
+Código IR desconocido: F4E60A8E
+Código IR desconocido: 25AE7EE1
+Código IR desconocido: DBB8D9FE
+49B0F625
+ZOOM_OUT
+Código IR desconocido: 24AE7D4C
+Código IR desconocido: 25AE7EE1
+Código IR desconocido: F5EAEE7C
+Código IR desconocido: EC0E55A4
+FCABFFBF
+ZOOM_IN
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: 77DF9F52
+Código IR desconocido: A74F43DE
+Código IR desconocido: DBE32B77
+Código IR desconocido: FCABFFBE
+Código IR desconocido: AAAEACC8
+Código IR desconocido: 6919A33C
+Código IR desconocido: 71CE37CF
+Código IR desconocido: D9FF9F77
+Código IR desconocido: AB063D08
+Código IR desconocido: CBE86DC9
+Código IR desconocido: 5354DB0A
+49B0F626
+ZOOM_IN
+Código IR desconocido: FCABFFBD
+Código IR desconocido: 4AB0F7B6
+Código IR desconocido: AC54954
+FEAC02E5
+ZOOM_IN
+Código IR desconocido: 84A52C7A
+Código IR desconocido: 6FB84EC5
+Código IR desconocido: C40BD817
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: 25AE7EE1
+Código IR desconocido: 6FB84EC6
+Código IR desconocido: 512E59B9
+Código IR desconocido: 6819A1AA
+20DF00FF
+ZOOM_IN
+20DF00FF
+ZOOM_IN
+20DF00FF
+ZOOM_IN
+20DF00FF
+ZOOM_IN
+Código IR desconocido: 26E7C613
+20DF807F
+ZOOM_OUT
+Código IR desconocido: 831535A5
+Código IR desconocido: 7027B2B5
+22AE7A2A
+SCROLL_ARRIBA
+Código IR desconocido: C40BD817
+Código IR desconocido: C40BD817
+Código IR desconocido: 8C5F435
+Código IR desconocido: 9D1D1174
+FDAC0152
+ZOOM_IN
+Código IR desconocido: 24AE7D4F
+Código IR desconocido: 642056E5
+Código IR desconocido: E7CCAB63
+Código IR desconocido: 480E8C3B
+Código IR desconocido: 20DF
+Código IR desconocido: 20DF
+20DF807F
+ZOOM_OUT
+Código IR desconocido: 20DF
+169CDC1F
+ZOOM_OUT
+Código IR desconocido: 684CE970
+Código IR desconocido: B429447E
+Código IR desconocido: 9B9AA7B5
+Código IR desconocido: 8FDE36A7
+Código IR desconocido: 1473C00A
+Código IR desconocido: C43430CB
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 93D1ED00
+169CDC1F
+ZOOM_OUT
+Código IR desconocido: 57D15D26
+Código IR desconocido: 287EE358
+Código IR desconocido: CEDA0539
+Código IR desconocido: E9D08A3C
+Código IR desconocido: A939AA2E
+Código IR desconocido: 901639CE
+Código IR desconocido: D5C8A995
+Código IR desconocido: 8DE6B227
+Código IR desconocido: D82D2A98
+Código IR desconocido: 65426840
+Código IR desconocido: B2DF89E2
+Código IR desconocido: 5F1CF6F4
+Código IR desconocido: 187E013E
+Código IR desconocido: 8797C274
+Código IR desconocido: 614F6463
+Código IR desconocido: 873C26E7
+Código IR desconocido: 60F981B4
+Código IR desconocido: 641A4EBB
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: 6808FEC0
+Código IR desconocido: DE8D48A3
+Código IR desconocido: D8E3B56A
+Código IR desconocido: 429F833B
+49B0F626
+ZOOM_IN
+20DF807F
+ZOOM_OUT
+169CDC1F
+ZOOM_OUT
+169CDC1F
+ZOOM_OUT
+Código IR desconocido: 55232368
+Código IR desconocido: 571CFC36
+Código IR desconocido: 217E03A7
+Código IR desconocido: C2E49293
+Código IR desconocido: C86D0E67
+Código IR desconocido: 3E7E6A8
+Código IR desconocido: 7B54F973
+Código IR desconocido: 77DF9F53
+Código IR desconocido: AD7670BF
+Código IR desconocido: 4DB5DAA8
+BCBD452C
+ZOOM_OUT
+Código IR desconocido: EA47FA08
+Código IR desconocido: 4CD0391B
+Código IR desconocido: 6C700332
+Código IR desconocido: C535CCE5
+Código IR desconocido: EC133354
+Código IR desconocido: 65EFCC29
+FCABFFBF
+ZOOM_IN
+Código IR desconocido: 24AE7D4E
+Código IR desconocido: CE78389
+Código IR desconocido: CB62A295
+Código IR desconocido: 50D0EF65
+Código IR desconocido: AAAC56D
+Código IR desconocido: 6A93DCA0
+Código IR desconocido: B03C4A52
+FCABFFBF
+ZOOM_IN
+Código IR desconocido: 87113197
+Código IR desconocido: 60A808DC
+Código IR desconocido: 26DA1194
+FEAC02E5
+ZOOM_IN
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: E21E9AAE
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: 3BC6F9CE
+Código IR desconocido: F92C972C
+Código IR desconocido: 13EE60D6
+Código IR desconocido: EBD6114
+Código IR desconocido: 498D6521
+Código IR desconocido: 705B921
+Código IR desconocido: 256F74
+Código IR desconocido: D1E31851
+Código IR desconocido: 71B851EC
+FDAC0152
+ZOOM_IN
+Código IR desconocido: 52E8F89A
+Código IR desconocido: 6FB84EC5
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: C9321CAF
+Código IR desconocido: 2804976D
+Código IR desconocido: FA510A1F
+Código IR desconocido: 8073B792
+Código IR desconocido: AAB6A5AA
+Código IR desconocido: EA0E5282
+FDAC0152
+ZOOM_IN
+Código IR desconocido: 1099657F
+Código IR desconocido: 24AE7D4C
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: 69DBBC3C
+Código IR desconocido: 75B975E8
+Código IR desconocido: A5E5F35F
+FCABFFBF
+ZOOM_IN
+Código IR desconocido: 982D7F22
+Código IR desconocido: 202F1329
+FCABFFBF
+ZOOM_IN
+Código IR desconocido: 8386398E
+Código IR desconocido: 6F09EECA
+Código IR desconocido: 31A576C0
+Código IR desconocido: 4EC30972
+Código IR desconocido: DC4E83D4
+Código IR desconocido: EA0E5282
+Código IR desconocido: CA4C3DD2
+Código IR desconocido: CEE87281
+Código IR desconocido: CE4E3FC9
+Código IR desconocido: B9176D70
+Código IR desconocido: 2764839B
+Código IR desconocido: 722B04B6
+Código IR desconocido: 2C9F4BEA
+Código IR desconocido: 6ADBBDCE
+Código IR desconocido: 20DF9C63
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF9C63
+Código IR desconocido: 20DF
+Código IR desconocido: 20DF9C63
+Código IR desconocido: 3C19B396
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF
+Código IR desconocido: 20DF9C63
+4962A763
+CAMBIAR_VENTANA
+Código IR desconocido: 20DF9C63
+Código IR desconocido: 20DF9C63
+Código IR desconocido: 20DF9C63
+Código IR desconocido: 20DF9C63
+Código IR desconocido: 20DF9C63
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: E37CBEE0
+Código IR desconocido: 95C90DE9
+Código IR desconocido: 5A5E61B7
+Código IR desconocido: 20DF9C63
+Código IR desconocido: 20DF9C63
+Código IR desconocido: 20DF9C63
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF9C63
+20DF40BF
+VOLUMEN_MAS
+Código IR desconocido: 84DF84E8
+Código IR desconocido: 49649B7F
+Código IR desconocido: EE435971
+Código IR desconocido: 8416E16D
+Código IR desconocido: AA79257E
+Código IR desconocido: 6C5188D2
+Código IR desconocido: 3E7DEB59
+20DF40BF
+VOLUMEN_MAS
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF
+Código IR desconocido: FFFFFFFF
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+Código IR desconocido: B761C440
+Código IR desconocido: 4ADEB28C
+9E0A10FF
+VOLUMEN_MAS
+Código IR desconocido: 1B853BE5
+Código IR desconocido: 92037E66
+Código IR desconocido: 92DCC4BF
+Código IR desconocido: 86D06F03
+9E0A10FF
+VOLUMEN_MAS
+Código IR desconocido: 217E03A4
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 982D7F22
+Código IR desconocido: 482A7F4F
+Código IR desconocido: 423C2113
+Código IR desconocido: 4B25751B
+Código IR desconocido: FDAC0150
+Código IR desconocido: F0078A4B
+Código IR desconocido: 8BF27298
+Código IR desconocido: CAC347E0
+Código IR desconocido: BA94D2C9
+Código IR desconocido: D2F90538
+Código IR desconocido: FFCB42B4
+Código IR desconocido: FEAC02E4
+Código IR desconocido: FDAC0153
+Código IR desconocido: 1CE11D63
+Código IR desconocido: FDAC0153
+Código IR desconocido: 722B04B5
+FCABFFBF
+ZOOM_IN
+Código IR desconocido: FDAC0153
+FEAC02E5
+ZOOM_IN
+Código IR desconocido: 4A25D4DC
+Código IR desconocido: 909933CA
+Código IR desconocido: 506A950C
+Código IR desconocido: FECB4121
+Código IR desconocido: CD51BE48
+Código IR desconocido: F743484B
+Código IR desconocido: 5AD41C33
+Código IR desconocido: FE24B3EA
+Código IR desconocido: E19E2180
+Código IR desconocido: 536E9840
+Código IR desconocido: 7D56CB2
+20DF00FF
+ZOOM_IN
+20DF00FF
+ZOOM_IN
+20DF00FF
+ZOOM_IN
+20DF00FF
+ZOOM_IN
+Código IR desconocido: FFFFFFFF
+20DF807F
+ZOOM_OUT
+20DF807F
+ZOOM_OUT
+20DF807F
+ZOOM_OUT
+20DF807F
+ZOOM_OUT
+20DF807F
+ZOOM_OUT
+20DF807F
+ZOOM_OUT
+20DF807F
+ZOOM_OUT
+Código IR desconocido: 20DFC03F
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: FFFFFFFF
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+Código IR desconocido: FFFFFFFF
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+20DF8877
+ABRIR_CHROME
+20DF8877
+ABRIR_CHROME
+20DF8877
+ABRIR_CHROME
+20DF48B7
+ABRIR_TERMINAL
+Código IR desconocido: FFFFFFFF
+20DF48B7
+ABRIR_TERMINAL
+20DF48B7
+ABRIR_TERMINAL
+Código IR desconocido: FFFFFFFF
+20DF48B7
+ABRIR_TERMINAL
+Código IR desconocido: FFFFFFFF
+20DFC837
+ABRIR_VSCODE
+Código IR desconocido: FFFFFFFF
+20DFC837
+ABRIR_VSCODE
+20DFC837
+ABRIR_VSCODE
+Código IR desconocido: FFFFFFFF
+20DFC837
+ABRIR_VSCODE
+20DF28D7
+ABRIR_CALENDARIO
+20DF28D7
+ABRIR_CALENDARIO
+20DF28D7
+ABRIR_CALENDARIO
+20DF28D7
+ABRIR_CALENDARIO
+Código IR desconocido: 20DFA857
+Código IR desconocido: 20DFA857
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFA857
+Código IR desconocido: 20DFA857
+Código IR desconocido: 20DF6897
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF6897
+Código IR desconocido: 20DFE817
+Código IR desconocido: 20DFE817
+Código IR desconocido: 20DFE817
+20DF18E7
+ABRIR_RELOJ
+Código IR desconocido: FFFFFFFF
+20DF18E7
+ABRIR_RELOJ
+20DF18E7
+ABRIR_RELOJ
+20DF18E7
+ABRIR_RELOJ
+20DF18E7
+ABRIR_RELOJ
+20DF18E7
+ABRIR_RELOJ
+Código IR desconocido: 82327F89
+20DF28D7
+ABRIR_CALENDARIO
+Código IR desconocido: FFFFFFFF
+20DF28D7
+ABRIR_CALENDARIO
+Código IR desconocido: 1EBE38D4
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFA857
+Código IR desconocido: 20DFA857
+Código IR desconocido: 20DFA857
+Código IR desconocido: 7E369A73
+Código IR desconocido: BB736E88
+Código IR desconocido: 126EEC85
+Código IR desconocido: FDAC0150
+Código IR desconocido: 79979637
+411A82A3
+SCROLL_ARRIBA
+Código IR desconocido: 20DFAA55
+Código IR desconocido: 20DFAA55
+Código IR desconocido: 20DFAA55
+Código IR desconocido: 20DFAA55
+Código IR desconocido: 20DFAA55
+Código IR desconocido: 20DFAA55
+Código IR desconocido: 20DFAA55
+Código IR desconocido: 20DF
+Código IR desconocido: 20DFEA15
+Código IR desconocido: 20DFEA15
+Código IR desconocido: 20DFEA15
+Código IR desconocido: 20DFEA15
+Código IR desconocido: 20DFEA15
+Código IR desconocido: 20DF
+20DF40BF
+VOLUMEN_MAS
+Código IR desconocido: FFFFFFFF
+20DF40BF
+VOLUMEN_MAS
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+ódigo IR desconocido: FFFFFFFF
+Código IR desconocido: 8AE36883
+Código IR desconocido: 9078F688
+Código IR desconocido: 7B1FB3BA
+Código IR desconocido: B01FB9F9
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+9E0A10FF
+VOLUMEN_MAS
+Código IR desconocido: FFFFFFFF
+20DF40BF
+VOLUMEN_MAS
+Código IR desconocido: A0C559C0
+Código IR desconocido: FDAD39B5
+Código IR desconocido: 1160F933
+Código IR desconocido: 8EEF4B83
+Código IR desconocido: 8EEF4B83
+Código IR desconocido: 8EEF4B83
+Código IR desconocido: 20DF
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: 20DFC03F
+Código IR desconocido: FFFFFFFF
+20DF8877
+ABRIR_CHROME
+Código IR desconocido: FFFFFFFF
+20DF8877
+ABRIR_CHROME
+20DF48B7
+ABRIR_TERMINAL
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 5971FF30
+Código IR desconocido: 34C3361B
+20DFC837
+ABRIR_VSCODE
+Código IR desconocido: 6E87E1C2
+Código IR desconocido: 9F3E1063
+Código IR desconocido: 96B0E2F7
+Código IR desconocido: 3397B5E3
+Código IR desconocido: 1B3B31E9
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FEAC02E5
+Código IR desconocido: 1F7E007D
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: A98CA644
+Código IR desconocido: 722B04B7
+Código IR desconocido: C40BD817
+Código IR desconocido: 1DD77B67
+Código IR desconocido: CA9BBB57
+20DF00FF
+ZOOM_IN
+Código IR desconocido: FFFFFFFF
+20DF00FF
+ZOOM_IN
+20DF807F
+ZOOM_OUT
+20DF807F
+ZOOM_OUT
+20DF807F
+ZOOM_OUT
+20DFAA55
+SCROLL_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DFAA55
+SCROLL_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DFEA15
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+20DFEA15
+VOLUMEN_MENOS
+20DFEA15
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+20DFEA15
+VOLUMEN_MENOS
+20DFEA15
+VOLUMEN_MENOS
+20DFEA15
+VOLUMEN_MENOS
+20DFEA15
+VOLUMEN_MENOS
+20DFEA15
+VOLUMEN_MENOS
+20DFEA15
+VOLUMEN_MENOS
+20DF807F
+ZOOM_OUT
+Código IR desconocido: FFFFFFFF
+20DF807F
+ZOOM_OUT
+Código IR desconocido: FFFFFFFF
+20DF807F
+ZOOM_OUT
+Código IR desconocido: FFFFFFFF
+20DF00FF
+ZOOM_IN
+Código IR desconocido: FFFFFFFF
+20DF00FF
+ZOOM_IN
+Código IR desconocido: FFFFFFFF
+20DF00FF
+ZOOM_IN
+Código IR desconocido: FFFFFFFF
+20DFC03F
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+20DFC03F
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+20DFC03F
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+20DFC03F
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+20DFC03F
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+20DFC03F
+VOLUMEN_MENOS
+20DFC03F
+VOLUMEN_MENOS
+20DFC03F
+VOLUMEN_MENOS
+20DFC03F
+VOLUMEN_MENOS
+20DFC03F
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+20DFC03F
+VOLUMEN_MENOS
+20DF40BF
+VOLUMEN_MAS
+Código IR desconocido: FFFFFFFF
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+20DF40BF
+VOLUMEN_MAS
+20DFEA15
+VOLUMEN_MENOS
+20DFEA15
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+20DFEA15
+VOLUMEN_MENOS
+20DFEA15
+VOLUMEN_MENOS
+Código IR desconocido: 2A049A94
+Código IR desconocido: 43503234
+Código IR desconocido: 20DF
+Código IR desconocido: 2C34A441
+20DF8877
+ABRIR_CHROME
+Código IR desconocido: FFFFFFFF
+20DF8877
+ABRIR_CHROME
+20DF48B7
+ABRIR_TERMINAL
+Código IR desconocido: FFFFFFFF
+20DFC837
+ABRIR_VSCODE
+Código IR desconocido: FFFFFFFF
+20DFC837
+ABRIR_VSCODE
+Código IR desconocido: D2097B
+Código IR desconocido: 16F899EA
+Código IR desconocido: 9CD6B0AC
+20DF28D7
+ABRIR_CALENDARIO
+Código IR desconocido: 9F3E1063
+Código IR desconocido: E2774B67
+Código IR desconocido: 6F441EF2
+Código IR desconocido: 2FB2625F
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 2FB2625F
+Código IR desconocido: 4CB0FADD
+20DFA857
+ABRIR_RELOJ
+Código IR desconocido: FFFFFFFF
+20DFA857
+ABRIR_RELOJ
+20DFA857
+ABRIR_RELOJ
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: BE5DC074
+Código IR desconocido: 20DF
+Código IR desconocido: 8AAF694F
+Código IR desconocido: 8D13AD25
+Código IR desconocido: 373DA481
+Código IR desconocido: D5F46EEC
+Código IR desconocido: 6858627E
+Código IR desconocido: 2F1E04E2
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF9867
+Código IR desconocido: 2331B07F
+Código IR desconocido: D130B09F
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: D130B09F
+Código IR desconocido: 6DD7A5E1
+Código IR desconocido: 697FFE8D
+Código IR desconocido: AE8CC3EB
+Código IR desconocido: 6121DC9F
+Código IR desconocido: 4CB0FADD
+Código IR desconocido: FA7799A3
+Código IR desconocido: BA42F9CF
+Código IR desconocido: 30C25B3D
+Código IR desconocido: 2F5CB359
+Código IR desconocido: BD73D437
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: F3D6F5FF
+Código IR desconocido: BB09BAC2
+Código IR desconocido: 4AB0F7B7
+Código IR desconocido: 4CB0FADF
+Código IR desconocido: 1CC5A133
+Código IR desconocido: BFBD49E4
+Código IR desconocido: 7A5B9F11
+Código IR desconocido: 128FA48D
+Código IR desconocido: 18C11806
+Código IR desconocido: C5A96EF4
+Código IR desconocido: C03B658B
+Código IR desconocido: 4ACD167D
+20DF807F
+ZOOM_OUT
+20DF807F
+ZOOM_OUT
+20DF807F
+ZOOM_OUT
+20DF00FF
+ZOOM_IN
+20DF00FF
+ZOOM_IN
+Código IR desconocido: FFFFFFFF
+20DF00FF
+ZOOM_IN
+Código IR desconocido: FFFFFFFF
+20DF40BF
+VOLUMEN_MAS
+Código IR desconocido: FFFFFFFF
+20DF40BF
+VOLUMEN_MAS
+Código IR desconocido: FFFFFFFF
+20DFC03F
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+20DFC03F
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+20DFC03F
+VOLUMEN_MENOS
+Código IR desconocido: FFFFFFFF
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DFAA55
+SCROLL_ARRIBA
+20DFAA55
+SCROLL_ARRIBA
+20DFEA15
+SCROLL_ABAJO
+Código IR desconocido: FFFFFFFF
+20DFEA15
+SCROLL_ABAJO
+20DFEA15
+SCROLL_ABAJO
+20DFEA15
+SCROLL_ABAJO
+20DFEA15
+SCROLL_ABAJO
+20DFEA15
+SCROLL_ABAJO
+Código IR desconocido: 411A82A3
+Código IR desconocido: 411A82A3
+Código IR desconocido: 20DF
+20DFAA55
+SCROLL_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DFAA55
+SCROLL_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DFAA55
+SCROLL_ARRIBA
+Código IR desconocido: 411A82A3
+Código IR desconocido: 20DF
+Código IR desconocido: 411A82A3
+Código IR desconocido: 20DF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 68E8878A
+Código IR desconocido: 1D2F0E70
+Código IR desconocido: ACE7C23F
+Código IR desconocido: 20DFC23D
+Código IR desconocido: 20DFC23D
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFC23D
+Código IR desconocido: 20DF
+Código IR desconocido: ACE7C23F
+Código IR desconocido: 20DFC23D
+Código IR desconocido: 20DFC23D
+Código IR desconocido: ACE7C23F
+Código IR desconocido: ACE7C23F
+Código IR desconocido: 87CE8C74
+Código IR desconocido: 4AB0F7B5
+Código IR desconocido: 30D19B7D
+20DF22DD
+CLICK_IZQUIERDA
+Código IR desconocido: FFFFFFFF
+20DF22DD
+CLICK_IZQUIERDA
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: DEB92
+Código IR desconocido: DEB92
+Código IR desconocido: DEB92
+Código IR desconocido: DEB92
+Código IR desconocido: DEB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: DEB92
+Código IR desconocido: DEB92
+Código IR desconocido: DEB92
+Código IR desconocido: DEB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: D0B92
+Código IR desconocido: D0B92
+Código IR desconocido: D0B92
+Código IR desconocido: D0B92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 40B92
+Código IR desconocido: 40B92
+Código IR desconocido: 40B92
+Código IR desconocido: 80B92
+Código IR desconocido: 80B92
+Código IR desconocido: 80B92
+Código IR desconocido: 80B92
+Código IR desconocido: B92
+Código IR desconocido: B92
+Código IR desconocido: B92
+Código IR desconocido: C0B92
+Código IR desconocido: C0B92
+Código IR desconocido: C0B92
+Código IR desconocido: 20B92
+Código IR desconocido: 20B92
+Código IR desconocido: 20B92
+Código IR desconocido: A0B92
+Código IR desconocido: A0B92
+Código IR desconocido: A0B92
+Código IR desconocido: A0B92
+Código IR desconocido: E0B92
+Código IR desconocido: E0B92
+Código IR desconocido: E0B92
+Código IR desconocido: 60B92
+Código IR desconocido: 60B92
+Código IR desconocido: 60B92
+Código IR desconocido: 60B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 10B92
+Código IR desconocido: 26B92
+Código IR desconocido: 26B92
+Código IR desconocido: 26B92
+Código IR desconocido: 26B92
+Código IR desconocido: 26B92
+Código IR desconocido: 26B92
+Código IR desconocido: 26B92
+Código IR desconocido: 26B92
+Código IR desconocido: 26B92
+Código IR desconocido: 26B92
+Código IR desconocido: 90B92
+Código IR desconocido: 90B92
+Código IR desconocido: 90B92
+Código IR desconocido: 90B92
+Código IR desconocido: F0B92
+Código IR desconocido: F0B92
+Código IR desconocido: F0B92
+Código IR desconocido: F0B92
+Código IR desconocido: D8B92
+Código IR desconocido: D8B92
+Código IR desconocido: D8B92
+Código IR desconocido: D8B92
+Código IR desconocido: 8CB92
+Código IR desconocido: 8CB92
+Código IR desconocido: 8CB92
+Código IR desconocido: 8CB92
+Código IR desconocido: 8CB92
+Código IR desconocido: 8CB92
+Código IR desconocido: 8CB92
+Código IR desconocido: 3AB92
+Código IR desconocido: 3AB92
+Código IR desconocido: 3AB92
+Código IR desconocido: 3AB92
+Código IR desconocido: CB92
+Código IR desconocido: CB92
+Código IR desconocido: CB92
+Código IR desconocido: 28B46
+Código IR desconocido: 28B46
+Código IR desconocido: 28B46
+Código IR desconocido: 28B46
+Código IR desconocido: 28B46
+Código IR desconocido: 28B46
+Código IR desconocido: 28B46
+Código IR desconocido: 9CB92
+Código IR desconocido: 9CB92
+Código IR desconocido: 6017016A
+Código IR desconocido: 2C77EB54
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 4CB92
+Código IR desconocido: 4CB92
+Código IR desconocido: 4CB92
+Código IR desconocido: 9CB92
+Código IR desconocido: 9CB92
+Código IR desconocido: 9CB92
+Código IR desconocido: 9CB92
+Código IR desconocido: DCB46
+Código IR desconocido: DCB46
+Código IR desconocido: DCB46
+Código IR desconocido: C4B92
+Código IR desconocido: C4B92
+Código IR desconocido: 1897
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: 490
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: C90
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: 9EB92
+Código IR desconocido: DEB92
+Código IR desconocido: DEB92
+Código IR desconocido: DEB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 5EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+Código IR desconocido: 3EB92
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+20DFAA55
+SCROLL_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DFEA15
+SCROLL_ABAJO
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFE21D
+Código IR desconocido: 20DFE21D
+Código IR desconocido: 20DF2AD5
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF2AD5
+Código IR desconocido: 20DF2AD5
+Código IR desconocido: 20DF2AD5
+Código IR desconocido: 20DFE21D
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFE21D
+Código IR desconocido: 20DF2AD5
+Código IR desconocido: 20DFC23D
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFC23D
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFC23D
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFC23D
+Código IR desconocido: 20DFC23D
+Código IR desconocido: 20DFC23D
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+Código IR desconocido: FFFFFFFF
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+Código IR desconocido: FFFFFFFF
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DFC23D
+TECLADO_PANTALLA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DFC03F
+MOUSE_IZQUIERDA
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+Código IR desconocido: FFFFFFFF
+20DF40BF
+MOUSE_DERECHA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF807F
+MOUSE_ABAJO
+20DF40BF
+MOUSE_DERECHA
+Código IR desconocido: FFFFFFFF
+20DF22DD
+CLICK_IZQUIERDA
+20DFC03F
+MOUSE_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+Código IR desconocido: FFFFFFFF
+20DF22DD
+CLICK_IZQUIERDA
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+20DF22DD
+CLICK_IZQUIERDA
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF
+Código IR desconocido: FFFFFFFF
+20DF22DD
+CLICK_IZQUIERDA
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: DE8D48A3
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+Código IR desconocido: 20DF
+20DF22DD
+CLICK_IZQUIERDA
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DFC03F
+MOUSE_IZQUIERDA
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+20DF40BF
+MOUSE_DERECHA
+20DF40BF
+MOUSE_DERECHA
+Código IR desconocido: FFFFFFFF
+20DFC03F
+MOUSE_IZQUIERDA
+20DFC03F
+MOUSE_IZQUIERDA
+Código IR desconocido: FFFFFFFF
+20DF40BF
+MOUSE_DERECHA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DFC03F
+MOUSE_IZQUIERDA
+Código IR desconocido: FFFFFFFF
+20DF807F
+MOUSE_ABAJO
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DFC03F
+MOUSE_IZQUIERDA
+Código IR desconocido: FFFFFFFF
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+Código IR desconocido: FFFFFFFF
+20DF22DD
+CLICK_IZQUIERDA
+20DF22DD
+CLICK_IZQUIERDA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF9C63
+CAMBIAR_VENTANA
+20DF00FF
+MOUSE_ARRIBA
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DF807F
+MOUSE_ABAJO
+Código IR desconocido: FFFFFFFF
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+20DF807F
+MOUSE_ABAJO
+Código IR desconocido: 20DF58A7
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF58A7
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF58A7
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF58A7
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF58A7
+Código IR desconocido: 20DF58A7
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF58A7
+Código IR desconocido: 20DF58A7
+Código IR desconocido: 20DF58A7
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF7887
+Código IR desconocido: 20DF7887
+Código IR desconocido: 20DF7887
+Código IR desconocido: 20DF7887
+Código IR desconocido: 20DF7887
+20DF40BF
+MOUSE_DERECHA
+Código IR desconocido: FFFFFFFF
+20DF00FF
+MOUSE_ARRIBA
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFA956
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFA956
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFA956
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFA956
+Código IR desconocido: 20DFA956
+Código IR desconocido: 20DFA956
+20DF58A7
+QUITAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF58A7
+QUITAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF58A7
+QUITAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: FFFFFFFF
+20DF58A7
+QUITAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF58A7
+QUITAR_NARRADOR
+Código IR desconocido: 20DFA956
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFA956
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFA956
+Código IR desconocido: 20DFA956
+Código IR desconocido: 20DFA956
+Código IR desconocido: 20DFA956
+Código IR desconocido: 20DFA956
+Código IR desconocido: 20DFA956
+Código IR desconocido: 20DFA956
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF2AD5
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF2AD5
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFE21D
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DFE21D
+Código IR desconocido: 20DFE21D
+Código IR desconocido: 20DFE21D
+20DFAA55
+SCROLL_ARRIBA
+20DFAA55
+SCROLL_ARRIBA
+Código IR desconocido: FFFFFFFF
+20DFAA55
+SCROLL_ARRIBA
+20DFEA15
+SCROLL_ABAJO
+Código IR desconocido: FFFFFFFF
+20DFEA15
+SCROLL_ABAJO
+20DFEA15
+SCROLL_ABAJO
+20DFEA15
+SCROLL_ABAJO
+20DFEA15
+SCROLL_ABAJO
+20DF7887
+ACTIVAR_NARRADOR
+20DF7887
+ACTIVAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF7887
+ACTIVAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF7887
+ACTIVAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF7887
+ACTIVAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF7887
+ACTIVAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF58A7
+QUITAR_NARRADOR
+20DF58A7
+QUITAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF58A7
+QUITAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF708F
+Código IR desconocido: 20DF708F
+Código IR desconocido: FFFFFFFF
+Código IR desconocido: 20DF708F
+Código IR desconocido: 20DF708F
+Código IR desconocido: 20DF708F
+Código IR desconocido: 20DF708F
+Código IR desconocido: 20DF708F
+20DF7887
+ACTIVAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF7887
+ACTIVAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF7887
+ACTIVAR_NARRADOR
+20DF708F
+QUITAR_NARRADOR
+20DF708F
+QUITAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF708F
+QUITAR_NARRADOR
+20DF708F
+QUITAR_NARRADOR
+20DF7887
+ACTIVAR_NARRADOR
+Código IR desconocido: FFFFFFFF
+20DF7887
+ACTIVAR_NARRADOR
+20DF7887
+ACTIVAR_NARRADOR

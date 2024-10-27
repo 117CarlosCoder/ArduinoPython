@@ -128,17 +128,14 @@ def leer_mensajes(arduino):
     Lee mensajes del puerto serial y los procesa.
     """
     username = os.getlogin()
-    with open("codes.txt", "a") as file:
-        while True:
+   
+    while True:
             try:
                 if arduino.in_waiting > 0:
                     raw_string = arduino.readline().decode('utf-8').strip()
                     print(f"Mensaje recibido: {raw_string}")
 
-                    # Guardar el código en el archivo
-                    file.write(f"{raw_string}\n")
-
-                    # Manejar el mensaje recibido
+                
                     manejar_mensaje(raw_string)
             except KeyboardInterrupt:
                 print("Programa terminado por el usuario.")

@@ -6,6 +6,10 @@ const int receiverPin = 11;
 IRrecv irrecv(receiverPin);
 decode_results results;
 
+unsigned long ultimoCodigo = 0;
+unsigned long tiempoUltimoCodigo = 0;
+const unsigned long intervaloFiltrado = 200; 
+
 const unsigned long MOUSE_ARRIBA_CODES[] = {
   0x9EB92
 };
@@ -165,11 +169,11 @@ void setup() {
 
 void loop() {
   if (irrecv.decode(&results)) {
-    
-    if (results.value != 0xFB55006D) {
-      procesarCodigoIR(results.value); 
+    if (results.value != ultimoCodigo || (millis() - tiempoUltimoCodigo > intervaloFiltrado)) {
+      procesarCodigoIR(results.value);  
+      ultimoCodigo = results.value;     
+      tiempoUltimoCodigo = millis();    
     }
-
-    irrecv.resume();
+    irrecv.resume();  
   }
 }
